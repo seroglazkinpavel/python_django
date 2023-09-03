@@ -2,6 +2,8 @@ from django.shortcuts import render
 import logging
 from django.http import HttpResponse
 
+from lesson_1.models import Brand
+
 logger = logging.getLogger(__name__)
 
 menu = [
@@ -16,9 +18,11 @@ menu = [
 
 def index(request):
     logger.info('Index page accessed')
+    brands = Brand.objects.all()
     context = {
         'title': 'Главная страница',
-        'menu': menu
+        'menu': menu,
+        'brands': brands
     }
     return render(request, 'lesson_1/index.html', context=context)
 

@@ -351,3 +351,253 @@ INFO 2023-08-30 16:35:19,113 views 16536 21368 Index page accessed
 INFO 2023-08-30 16:35:19,118 basehttp 16536 21368 "GET / HTTP/1.1" 200 28152
 WARNING 2023-08-30 16:35:19,167 log 16536 21368 Not Found: /js/jquery.flexslider.js
 WARNING 2023-08-30 16:35:19,167 basehttp 16536 21368 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-09-01 20:15:45,147 autoreload 12800 16516 Watching for file changes with StatReloader
+INFO 2023-09-01 20:15:49,254 views 12800 18356 Index page accessed
+INFO 2023-09-01 20:15:49,476 basehttp 12800 18356 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-01 20:15:49,517 basehttp 12800 18356 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,517 basehttp 12800 24068 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,520 basehttp 12800 13504 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,522 basehttp 12800 19856 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,640 basehttp 12800 11148 "GET /static/css/style.css HTTP/1.1" 200 15971
+INFO 2023-09-01 20:15:49,859 basehttp 12800 13504 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 19856 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 18356 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 11148 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,860 basehttp 12800 24068 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,860 basehttp 12800 23660 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,099 basehttp 12800 23660 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,099 basehttp 12800 11148 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,100 basehttp 12800 18356 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,100 basehttp 12800 24068 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,103 basehttp 12800 13504 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,104 basehttp 12800 19856 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,115 basehttp 12800 23660 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,116 basehttp 12800 11148 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,117 basehttp 12800 18356 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,117 basehttp 12800 24068 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,193 basehttp 12800 18356 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,193 basehttp 12800 23660 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,194 basehttp 12800 13504 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,195 basehttp 12800 19856 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,444 basehttp 12800 23660 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,451 basehttp 12800 11148 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,452 basehttp 12800 24068 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,456 basehttp 12800 13504 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,459 basehttp 12800 18356 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,459 basehttp 12800 19856 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,491 basehttp 12800 11148 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,491 basehttp 12800 23660 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,492 basehttp 12800 24068 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 24068 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 18356 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 11148 "GET /static/images/vk.png HTTP/1.1" 304 0
+WARNING 2023-09-01 20:15:50,913 log 12800 23660 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-01 20:15:50,913 basehttp 12800 23660 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3680
+INFO 2023-09-01 20:18:28,454 basehttp 12800 23660 "GET /last/ HTTP/1.1" 200 417
+INFO 2023-09-01 20:19:09,337 autoreload 12800 16516 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2\urls.py changed, reloading.
+INFO 2023-09-01 20:19:10,155 autoreload 19088 3748 Watching for file changes with StatReloader
+INFO 2023-09-01 20:19:25,759 basehttp 19088 16404 "GET /index/ HTTP/1.1" 200 80
+INFO 2023-09-01 20:25:41,737 autoreload 19088 3748 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2\models.py changed, reloading.
+INFO 2023-09-01 20:25:42,465 autoreload 20784 12328 Watching for file changes with StatReloader
+INFO 2023-09-01 20:26:11,966 basehttp 20784 9048 "GET /last/ HTTP/1.1" 200 417
+INFO 2023-09-01 22:40:32,381 autoreload 22240 16988 Watching for file changes with StatReloader
+INFO 2023-09-01 22:40:37,101 views 22240 24064 Index page accessed
+INFO 2023-09-01 22:40:37,130 basehttp 22240 24064 "GET / HTTP/1.1" 200 28152
+WARNING 2023-09-01 22:40:37,263 log 22240 24064 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-01 22:40:37,263 basehttp 22240 24064 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3686
+WARNING 2023-09-01 22:41:25,088 log 22240 24064 Not Found: /author/
+WARNING 2023-09-01 22:41:25,089 basehttp 22240 24064 "GET /author/ HTTP/1.1" 404 3638
+INFO 2023-09-01 22:43:33,183 autoreload 22240 16988 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\urls.py changed, reloading.
+INFO 2023-09-01 22:43:33,888 autoreload 17132 24544 Watching for file changes with StatReloader
+ERROR 2023-09-01 22:43:38,195 log 17132 19552 Internal Server Error: /author/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py", line 7, in author
+    res = Author.object.all()
+AttributeError: type object 'Author' has no attribute 'object'
+ERROR 2023-09-01 22:43:38,197 basehttp 17132 19552 "GET /author/ HTTP/1.1" 500 66016
+INFO 2023-09-01 22:47:09,711 autoreload 17132 24544 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py changed, reloading.
+INFO 2023-09-01 22:47:10,443 autoreload 20156 23216 Watching for file changes with StatReloader
+INFO 2023-09-01 22:47:17,929 basehttp 20156 23672 "GET /author/ HTTP/1.1" 200 142
+INFO 2023-09-01 22:50:27,705 autoreload 20156 23216 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py changed, reloading.
+INFO 2023-09-01 22:50:28,417 autoreload 23004 6760 Watching for file changes with StatReloader
+INFO 2023-09-01 22:50:32,581 basehttp 23004 18796 "GET /author/ HTTP/1.1" 200 182
+INFO 2023-09-02 09:10:46,652 autoreload 23004 6760 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:10:47,469 autoreload 26964 15060 Watching for file changes with StatReloader
+INFO 2023-09-02 09:14:36,784 autoreload 26964 15060 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:14:38,143 autoreload 8736 21432 Watching for file changes with StatReloader
+INFO 2023-09-02 09:19:53,807 autoreload 8736 21432 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:19:54,576 autoreload 25332 25608 Watching for file changes with StatReloader
+INFO 2023-09-02 09:21:50,404 autoreload 25332 25608 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:21:51,083 autoreload 256 20804 Watching for file changes with StatReloader
+INFO 2023-09-02 09:24:18,906 autoreload 256 20804 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:24:19,550 autoreload 20636 27600 Watching for file changes with StatReloader
+INFO 2023-09-02 09:37:23,821 autoreload 20636 27600 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:37:24,549 autoreload 23292 25376 Watching for file changes with StatReloader
+INFO 2023-09-02 10:40:39,202 autoreload 23292 25376 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 10:40:40,938 autoreload 26140 23244 Watching for file changes with StatReloader
+INFO 2023-09-02 17:31:01,021 autoreload 22044 17492 Watching for file changes with StatReloader
+INFO 2023-09-02 17:31:04,091 views 22044 8000 Index page accessed
+INFO 2023-09-02 17:31:04,220 basehttp 22044 8000 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-02 17:31:04,292 basehttp 22044 8000 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-09-02 17:31:04,929 log 22044 8000 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 17:31:04,930 basehttp 22044 8000 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 17:32:38,306 views 22044 8000 News page accessed
+INFO 2023-09-02 17:32:38,307 basehttp 22044 8000 "GET /news/ HTTP/1.1" 200 14
+INFO 2023-09-02 17:32:44,006 views 22044 8000 About page accessed
+INFO 2023-09-02 17:32:44,015 basehttp 22044 8000 "GET /about/ HTTP/1.1" 200 10317
+WARNING 2023-09-02 17:32:44,056 log 22044 24372 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-02 17:32:44,058 basehttp 22044 24372 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3873
+INFO 2023-09-02 17:32:50,325 views 22044 24372 Articles page accessed
+INFO 2023-09-02 17:32:50,326 basehttp 22044 24372 "GET /articles/ HTTP/1.1" 200 12
+INFO 2023-09-02 17:45:44,622 autoreload 22044 17492 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 17:45:45,744 autoreload 5436 25896 Watching for file changes with StatReloader
+INFO 2023-09-02 17:49:05,414 autoreload 5436 25896 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 17:49:06,213 autoreload 15048 11076 Watching for file changes with StatReloader
+INFO 2023-09-02 18:01:47,478 autoreload 15048 11076 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\settings.py changed, reloading.
+INFO 2023-09-02 18:01:48,170 autoreload 25524 26504 Watching for file changes with StatReloader
+INFO 2023-09-02 18:01:58,237 views 25524 5592 Index page accessed
+INFO 2023-09-02 18:01:58,269 basehttp 25524 5592 "GET / HTTP/1.1" 200 28152
+WARNING 2023-09-02 18:01:58,369 log 25524 5592 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 18:01:58,370 basehttp 25524 5592 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 18:08:56,713 autoreload 25524 26504 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-02 18:08:57,752 autoreload 256 22220 Watching for file changes with StatReloader
+INFO 2023-09-02 23:46:59,356 autoreload 18896 24908 Watching for file changes with StatReloader
+INFO 2023-09-02 23:49:07,557 autoreload 18896 24908 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 23:49:08,142 autoreload 26756 23700 Watching for file changes with StatReloader
+INFO 2023-09-02 23:52:11,407 autoreload 26756 23700 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 23:52:12,479 autoreload 25100 11140 Watching for file changes with StatReloader
+INFO 2023-09-02 23:52:22,416 views 25100 27172 Index page accessed
+INFO 2023-09-02 23:52:22,456 basehttp 25100 27172 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-02 23:52:22,491 basehttp 25100 27172 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,492 basehttp 25100 23208 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,499 basehttp 25100 7188 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,500 basehttp 25100 25132 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,558 basehttp 25100 7188 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 5752 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 23208 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 25132 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,560 basehttp 25100 27172 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,561 basehttp 25100 2128 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,572 basehttp 25100 2128 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,574 basehttp 25100 7188 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,575 basehttp 25100 25132 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,575 basehttp 25100 27172 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,576 basehttp 25100 23208 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,576 basehttp 25100 5752 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,580 basehttp 25100 2128 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 7188 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 23208 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 5752 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,591 basehttp 25100 27172 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,591 basehttp 25100 25132 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,592 basehttp 25100 2128 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,614 basehttp 25100 7188 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 25132 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 5752 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 2128 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,619 basehttp 25100 27172 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,619 basehttp 25100 23208 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,625 basehttp 25100 7188 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,641 basehttp 25100 5752 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,641 basehttp 25100 7188 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,644 basehttp 25100 27172 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,645 basehttp 25100 23208 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,649 basehttp 25100 25132 "GET /static/images/vk.png HTTP/1.1" 304 0
+WARNING 2023-09-02 23:52:22,673 log 25100 2128 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 23:52:22,674 basehttp 25100 2128 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 23:52:22,697 basehttp 25100 2128 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-03 14:09:48,916 autoreload 18448 22376 Watching for file changes with StatReloader
+INFO 2023-09-03 14:35:19,209 autoreload 18448 22376 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\urls.py changed, reloading.
+INFO 2023-09-03 14:35:19,973 autoreload 17460 24864 Watching for file changes with StatReloader
+INFO 2023-09-03 14:37:40,727 autoreload 2072 3564 Watching for file changes with StatReloader
+INFO 2023-09-03 14:41:52,030 autoreload 2072 3564 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:41:52,659 autoreload 4212 27060 Watching for file changes with StatReloader
+INFO 2023-09-03 14:42:02,591 views 4212 25504 Index page accessed
+INFO 2023-09-03 14:42:02,866 basehttp 4212 25504 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-03 14:42:03,046 basehttp 4212 25504 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-09-03 14:42:04,175 log 4212 25504 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 14:42:04,175 basehttp 4212 25504 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4015
+INFO 2023-09-03 14:43:46,187 autoreload 4212 27060 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\urls.py changed, reloading.
+INFO 2023-09-03 14:43:46,829 autoreload 23880 27008 Watching for file changes with StatReloader
+INFO 2023-09-03 14:44:03,871 views 23880 22960 Index page accessed
+INFO 2023-09-03 14:44:03,887 basehttp 23880 22960 "GET / HTTP/1.1" 200 28162
+WARNING 2023-09-03 14:44:03,948 log 23880 22960 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 14:44:03,949 basehttp 23880 22960 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4020
+ERROR 2023-09-03 14:44:19,311 log 23880 22960 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 8, in index
+    result = type(Product.prise)
+AttributeError: type object 'Product' has no attribute 'prise'
+ERROR 2023-09-03 14:44:19,314 basehttp 23880 22960 "GET /type/ HTTP/1.1" 500 65994
+INFO 2023-09-03 14:46:34,689 autoreload 23880 27008 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:46:35,312 autoreload 17696 17308 Watching for file changes with StatReloader
+INFO 2023-09-03 14:46:45,225 basehttp 17696 11704 "GET /type/ HTTP/1.1" 200 56
+INFO 2023-09-03 14:48:56,523 autoreload 17696 17308 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:48:57,240 autoreload 25504 11496 Watching for file changes with StatReloader
+INFO 2023-09-03 14:49:09,520 basehttp 25504 24732 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:04,167 autoreload 25504 11496 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:51:04,790 autoreload 12200 7740 Watching for file changes with StatReloader
+INFO 2023-09-03 14:51:13,107 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:14,728 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:15,763 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:53,944 autoreload 12200 7740 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:51:54,561 autoreload 5484 14584 Watching for file changes with StatReloader
+INFO 2023-09-03 14:52:03,569 basehttp 5484 23880 "GET /type/ HTTP/1.1" 200 6
+INFO 2023-09-03 14:53:48,145 autoreload 5484 14584 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\models.py changed, reloading.
+INFO 2023-09-03 14:53:48,894 autoreload 15736 12960 Watching for file changes with StatReloader
+INFO 2023-09-03 14:54:43,122 autoreload 15736 12960 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:54:43,750 autoreload 21096 23780 Watching for file changes with StatReloader
+INFO 2023-09-03 14:54:51,962 basehttp 21096 21752 "GET /type/ HTTP/1.1" 200 4
+INFO 2023-09-03 14:55:22,225 autoreload 21096 23780 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:55:22,843 autoreload 26848 27104 Watching for file changes with StatReloader
+INFO 2023-09-03 14:55:30,940 basehttp 26848 7172 "GET /type/ HTTP/1.1" 200 15
+INFO 2023-09-03 14:55:33,072 basehttp 26848 7172 "GET /type/ HTTP/1.1" 200 15
+INFO 2023-09-03 14:58:15,729 autoreload 26848 27104 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:58:16,372 autoreload 25152 11368 Watching for file changes with StatReloader
+INFO 2023-09-03 14:59:23,178 autoreload 27624 16016 Watching for file changes with StatReloader
+INFO 2023-09-03 15:58:29,621 autoreload 27624 16016 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 15:58:30,449 autoreload 20400 21448 Watching for file changes with StatReloader
+ERROR 2023-09-03 15:58:40,284 log 20400 13984 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 10, in index
+    return HttpResponse(f'{products}')
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\db\models\query.py", line 377, in __repr__
+    return "<%s %r>" % (self.__class__.__name__, data)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\db\models\base.py", line 588, in __repr__
+    return "<%s: %s>" % (self.__class__.__name__, self)
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2023-09-03 15:58:40,288 basehttp 20400 13984 "GET /type/ HTTP/1.1" 500 73403
+INFO 2023-09-03 16:01:04,973 autoreload 20400 21448 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:01:05,622 autoreload 9168 20500 Watching for file changes with StatReloader
+ERROR 2023-09-03 16:01:15,575 log 9168 17256 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 10, in index
+    return HttpResponse(f'{item}')
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2023-09-03 16:01:15,577 basehttp 9168 17256 "GET /type/ HTTP/1.1" 500 66180
+INFO 2023-09-03 16:02:50,770 autoreload 9168 20500 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\models.py changed, reloading.
+INFO 2023-09-03 16:02:51,403 autoreload 16300 26168 Watching for file changes with StatReloader
+INFO 2023-09-03 16:02:59,886 basehttp 16300 23584 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:17:21,999 autoreload 16300 26168 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:17:22,680 autoreload 24300 1684 Watching for file changes with StatReloader
+INFO 2023-09-03 16:17:30,215 basehttp 24300 21400 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:17:34,725 basehttp 24300 21400 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:18:37,667 autoreload 24300 1684 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:18:38,300 autoreload 23388 15616 Watching for file changes with StatReloader
+INFO 2023-09-03 16:18:46,446 basehttp 23388 11916 "GET /type/ HTTP/1.1" 200 6

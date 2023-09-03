@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'lesson_1.apps.Lesson1Config'
+    'lesson_1.apps.Lesson1Config',
+    'seminar2.apps.Seminar2Config',
+    'seminar2_task3.apps.Seminar2Task3Config',
+    'homework2.apps.Homework2Config',
 ]
 
 MIDDLEWARE = [
@@ -127,6 +130,9 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'seminar/static'),
 ]
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
 
 LOGGING = {
     'version': 1,
