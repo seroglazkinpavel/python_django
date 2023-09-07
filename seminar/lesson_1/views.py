@@ -2,7 +2,7 @@ from django.shortcuts import render
 import logging
 from django.http import HttpResponse
 
-from lesson_1.models import Brand
+from lesson_1.models import Brand, Category, Product
 
 logger = logging.getLogger(__name__)
 
@@ -19,17 +19,23 @@ menu = [
 def index(request):
     logger.info('Index page accessed')
     brands = Brand.objects.all()
+    products = Product.objects.order_by("-id")[0:8]
     context = {
         'title': 'Главная страница',
         'menu': menu,
-        'brands': brands
+        'brands': brands,
+        'products': products
     }
     return render(request, 'lesson_1/index.html', context=context)
 
 
+def get_category(request):
+    return render(request, 'lesson_1/category.html')
+
+
 def about(request):
     logger.info('About page accessed')
-    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас'})
+    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас', 'categories': categories})
 
 
 def news(request):

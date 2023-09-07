@@ -10,4 +10,5 @@ urlpatterns = [
     path('reviews/', reviews, name='reviews'),
     path('contacts/', contacts, name='contacts'),
     path('articles/', articles, name='articles'),
+    path('category/<str:slug>', get_category, name='category'),
 ]

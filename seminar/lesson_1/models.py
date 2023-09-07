@@ -32,25 +32,24 @@ class Product(models.Model):
         (1, 'Yes'),
     ]
     category = models.ForeignKey(Category, verbose_name='Категория', on_delete=models.CASCADE)
-    brand = models.ForeignKey(Brand, verbose_name='Фирменный знак', on_delete=models.CASCADE)
+    brand = models.ForeignKey(Brand, verbose_name='Фирменный знак', on_delete=models.CASCADE, null=True, blank=True)
     title = models.CharField(max_length=225, verbose_name='Наименование')
     slug = models.SlugField(max_length=225, verbose_name='Url', unique=True)
     #image = models.ImageField(verbose_name='Изображение')
     image = models.ImageField(upload_to='photos/%Y/%m/%d/', verbose_name='Изображение', blank=True)
-    description = models.TextField(verbose_name='Описание', null=True)
+    description = models.TextField(verbose_name='Описание', null=True, blank=True)
     price = models.DecimalField(max_digits=9, decimal_places=2, verbose_name='Цена')
     old_price = models.DecimalField(max_digits=9, decimal_places=2, verbose_name='Старая цена')
     status = models.PositiveSmallIntegerField(choices=MAYBECHOICE, blank=False, default=1, verbose_name='Статус')
     depart = models.CharField(max_length=225, verbose_name='Упаковка', blank=True)
     article = models.CharField(max_length=225, verbose_name='Артикуль', blank=True)
     grade = models.CharField(max_length=225, verbose_name='Класс', blank=True)
-    hieght = models.CharField(max_length=100, verbose_name='Высота', blank=True)
+    height = models.CharField(max_length=100, verbose_name='Высота', blank=True)
     flower_size = models.CharField(max_length=225, verbose_name='Размер цветка', blank=True)
     flowering_period = models.CharField(max_length=100, verbose_name='Период', blank=True)
     landing_place = models.CharField(max_length=100, verbose_name='Место посадки', blank=True)
     frost_resistance = models.CharField(max_length=100, verbose_name='Морозостойкость', blank=True)
-    time_create = models.DateTimeField(auto_now_add=True, verbose_name='Время добавления')
-    quantity_goods = models.IntegerField(default=0)
+    # time_create = models.DateTimeField(auto_now_add=True, verbose_name='Время добавления', blank=True)
 
     def __str__(self):
         return self.title

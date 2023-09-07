@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}{{ title }} {% endblock %}
+
+{% block content %}
+{{ title }}
+    {%for item in list_cube %}
+            <p>{{ item }}</p>
+    {% endfor %}
+{% endblock %}
