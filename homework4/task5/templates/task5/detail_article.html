@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %} {{ title }} {% endblock %}
+
+{% block content %}
+  <h1>{{ article.title }}</h1>
+  <p>{{ article.content }}</p>
+  Категория - {{ article.author }}<br>
+  Автор - {{ article.author }} - {{ article.publication_date }}<br><br><hr>
+<h3>Комментарии</h3>
+{% for comment in comments %}
+  Пользователь: {{ comment.user }}<br>
+    Текст:    {{ comment.comment_text }}<br>
+  Добавлен: - {{ comment.created_date }}<br><br>
+{% endfor %}
+   <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Отправить">
+    </form>
+{% endblock %}

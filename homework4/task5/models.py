@@ -1,6 +1,7 @@
 from django.urls import reverse
-
 from django.db import models
+from django.contrib.auth import get_user_model
+User = get_user_model()
 
 
 class Author(models.Model):
@@ -18,14 +19,18 @@ class Author(models.Model):
 
 
 class Comment(models.Model):
-    author = models.ForeignKey(Author, on_delete=models.CASCADE)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
     article = models.ForeignKey('Article', on_delete=models.CASCADE)
     comment_text = models.TextField()
     created_date = models.DateTimeField(auto_now_add=True)
     modified_date = models.DateTimeField(auto_now=True)
 
     def __str__(self):
-        return f'Comment by {self.author.full_name()} on {self.article}'
+        #return f'Comment by {self.author.first_name} {self.author.last_name} on {self.article}'
+        return f'{self.user.first_name}'
+
+    class Meta:
+        ordering = ['-id']
 
 
 class Article(models.Model):
@@ -42,3 +47,4 @@ class Article(models.Model):
 
     def __str__(self):
         return f'Title is: {self.title}'
+

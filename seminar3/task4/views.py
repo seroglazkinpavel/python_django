@@ -1,6 +1,8 @@
 from django.shortcuts import render
-from django.views.generic import TemplateView, DetailView
+from django.urls import reverse_lazy
+from django.views.generic import TemplateView, DetailView, CreateView
 from .models import Author, Article
+from task4 import forms
 
 
 class AllArticlesViews(TemplateView):
@@ -24,3 +26,21 @@ class DetailArticle(DetailView):
         obj.views += 1
         obj.save()
         return obj
+
+
+class AddAuthor(CreateView):
+    model = Author
+    template_name = 'task4/add_author.html'
+    form_class = forms.AddAuthorForm
+    # success_url = reverse_lazy('author_page')
+
+
+class AuthorPage(DetailView):
+    model = Author
+    template_name = 'task4/author_page.html'
+
+
+class AddArticle(CreateView):
+    model = Article
+    template_name = 'task4/add_article.html'
+    form_class = forms.AddArticleForm
