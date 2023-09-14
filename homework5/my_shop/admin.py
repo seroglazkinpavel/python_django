@@ -4,8 +4,27 @@ from django.utils.safestring import mark_safe
 from .models import *
 
 
-# class CategoryAdmin(admin.ModelAdmin):
-#     prepopulated_fields = {"slug": ("title",)}
+class CustomerAdmin(admin.ModelAdmin):
+    """Список продуктов."""
+    list_display = ['name', 'phone', 'address']
+    ordering = ['phone']
+    list_filter = ['time_create']
+    search_fields = ['phone']
+    """Отдельный продукт."""
+    fields = ['name', 'phone', 'time_create',]
+    readonly_fields = ['time_create']
+
+
+class OrderAdmin(admin.ModelAdmin):
+    """Список продуктов."""
+    list_display = ['customer', 'product', 'total_amount']
+    ordering = ['total_amount']
+    list_filter = ['time_create']
+    search_fields = ['customer']
+    """Отдельный продукт."""
+    fields = ['customer', 'total_amount', 'time_create',]
+    readonly_fields = ['time_create']
+
 
 @admin.action(description='Сбросить количество в ноль')
 def reset_quantity(modeladmin, request, queryset):
@@ -64,6 +83,6 @@ class ProductAdmin(admin.ModelAdmin):
 
 admin.site.register(Category)
 admin.site.register(Product, ProductAdmin)
-admin.site.register(Customer)
-admin.site.register(Order)
+admin.site.register(Customer, CustomerAdmin)
+admin.site.register(Order, OrderAdmin)
 
