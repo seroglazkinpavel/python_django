@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.utils.safestring import mark_safe
+from django.utils.html import format_html
 
 from .models import *
 
@@ -77,7 +78,7 @@ class ProductAdmin(admin.ModelAdmin):
 
     def get_photo(self, obj):
         if obj.image:
-            return mark_safe(f"<img src='{obj.image.url}' width=50>")
+            return format_html(f"<img src='{obj.image.url}' width=50>")
         return '_'
 
 

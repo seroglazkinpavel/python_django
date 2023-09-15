@@ -35,7 +35,7 @@ def get_category(request):
 
 def about(request):
     logger.info('About page accessed')
-    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас', 'categories': categories})
+    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас'})
 
 
 def news(request):
