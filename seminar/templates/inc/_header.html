@@ -1,0 +1,94 @@
+{% load static %}
+{% load menu %}
+<div class="container">
+    <header class="header">
+        <div class="header_menu">
+<!--            <div class="header_section">-->
+<!--                <div class="header_item headerButton"><a href="#">О нас</a></div>-->
+<!--                <div class="header_item headerButton"><a href="#">Новости</a></div>-->
+<!--                <div class="header_item headerButton"><a href="#">Условия работы</a></div>-->
+<!--                <div class="header_item headerButton"><a href="#">Отзывы</a></div>-->
+<!--                <div class="header_item headerButton"><a href="#">Контакты</a></div>-->
+<!--                <div class="header_item headerButton"><a href="#">Статьи</a></div>-->
+<!--            </div>-->
+            <ul class="header_section">
+                {% for m in menu %}
+                    <li class="header_item headerButton"><a href="{% url m.url_name %}">{{ m.title }}</a></li>
+                {% endfor %}
+            </ul>
+            <div class="header_section">
+                <div class="header_item headerButton images"><img src="{% static 'images/entrance.png' %}"></div>
+
+                <div class="header_item headerButton"><a href="/user/login">Вход\</a><a href="/user/registration">регистрация</a>
+                </div>
+            </div>
+        </div>
+        <div class="header_logo">
+            <div class="header_logo_section">
+                <div class=""><a href="{% url 'home' %}"><img src="{% static 'images/logo.png' %}"></a></div>
+                <a class="logo" href="{% url 'home' %}">Саженцы цветов и<br>растений почтой</a>
+            </div>
+            <div class="header_logo_section">
+                <div class="search">
+                    <div class="telephone">
+                        <p class="mode">РЕЖИМ РАБОТЫ</p>
+                        <p class="bells">звонки по телефону</p>
+                        <p class="numbers">ПН-ПТ 9:00-17:00</p>
+                    </div>
+                    <div class="telephone">
+                        <p class="mode">ПОЗВОНИТЕ НАМ</p>
+                        <p class="numbers">+7(978) 911-22-92</p>
+                    </div>
+                    <!--<div class="telephone"><a class="payment" href="">СООБЩИТЬ ОБ ОПЛАТЕ</a></div>-->
+                </div>
+                <!--<div class="search">
+                    <form name="search" action="" method="get">
+                        <input class="search_one" type="text" name="q" value="" placeholder="Поиск">
+                        <input type="submit" value="" class="search_img" name="submit">
+                    </form>
+                </div>-->
+            </div>
+            <div class="header_logo_section">
+                <div class="cart">
+                    <a href="/cart/cart">
+                        <img src="{% static 'images/basket.png' %}">
+                        <span>
+															Ваша карзина пустая
+														</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+<nav class="nav">
+    <div class="container menu-container">
+        {% show_menu %}
+<!--        <div class="menu">-->
+<!--            <ul class='menuUl'>-->
+<!--                <li>-->
+<!--                    <a href="/category/lukvechnye">ЛУКОВИЧНЫЕ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/perennials">МНОГОЛЕТНИКИ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/ornamental-shrubs">КУСТАРНИКИ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/coniferous">ХВОЙНЫЕ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/roses">РОЗЫ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/fruit-trees">ПЛОДОВЫЕ</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="/category/related-products">ТОВАРЫ</a>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </div>-->
+    </div>
+    <div class="clearfix"></div>
+</nav>

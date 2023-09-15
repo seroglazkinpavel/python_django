@@ -1,0 +1,1489 @@
+INFO 2023-08-30 08:34:04,737 autoreload 21240 20120 Watching for file changes with StatReloader
+INFO 2023-08-30 08:34:20,000 views 21240 20708 Index page accessed
+INFO 2023-08-30 08:34:20,110 basehttp 21240 20708 "GET / HTTP/1.1" 200 27268
+WARNING 2023-08-30 08:34:21,062 log 21240 20708 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 08:34:21,063 basehttp 21240 20708 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2828
+INFO 2023-08-30 14:52:35,166 autoreload 21240 20120 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-08-30 14:52:37,114 autoreload 23792 22100 Watching for file changes with StatReloader
+INFO 2023-08-30 14:54:25,935 autoreload 23792 22100 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\urls.py changed, reloading.
+INFO 2023-08-30 14:54:26,648 autoreload 17980 23756 Watching for file changes with StatReloader
+INFO 2023-08-30 15:00:42,379 autoreload 17980 23756 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-08-30 15:00:43,191 autoreload 12136 18240 Watching for file changes with StatReloader
+INFO 2023-08-30 15:16:12,619 views 12136 19880 Index page accessed
+INFO 2023-08-30 15:16:12,683 basehttp 12136 19880 "GET / HTTP/1.1" 200 28095
+INFO 2023-08-30 15:16:12,716 basehttp 12136 20648 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,716 basehttp 12136 19880 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,723 basehttp 12136 17448 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,726 basehttp 12136 24092 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,732 basehttp 12136 12756 "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,772 basehttp 12136 24460 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,773 basehttp 12136 19880 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,773 basehttp 12136 17448 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,773 basehttp 12136 12756 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,774 basehttp 12136 20648 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,774 basehttp 12136 24092 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,789 basehttp 12136 24092 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,789 basehttp 12136 17448 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,790 basehttp 12136 19880 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,790 basehttp 12136 20648 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,790 basehttp 12136 12756 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,790 basehttp 12136 24460 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,807 basehttp 12136 24092 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,807 basehttp 12136 24460 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,808 basehttp 12136 20648 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,808 basehttp 12136 12756 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,808 basehttp 12136 19880 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,808 basehttp 12136 17448 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,843 basehttp 12136 12756 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,844 basehttp 12136 17448 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,844 basehttp 12136 24092 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,844 basehttp 12136 20648 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,844 basehttp 12136 19880 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,844 basehttp 12136 24460 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,878 basehttp 12136 24460 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,878 basehttp 12136 20648 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,878 basehttp 12136 17448 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,879 basehttp 12136 12756 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,879 basehttp 12136 19880 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,879 basehttp 12136 24092 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,916 basehttp 12136 24092 "GET /static/images/vk.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:16:12,916 basehttp 12136 12756 "GET /static/images/pointer.png HTTP/1.1" 304 0
+WARNING 2023-08-30 15:16:12,964 log 12136 19880 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:16:12,965 basehttp 12136 19880 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:24:09,623 views 12136 24092 Index page accessed
+INFO 2023-08-30 15:24:09,626 basehttp 12136 24092 "GET / HTTP/1.1" 200 28095
+WARNING 2023-08-30 15:24:09,678 log 12136 24092 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:24:09,679 basehttp 12136 24092 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:24:11,546 views 12136 24092 Index page accessed
+INFO 2023-08-30 15:24:11,550 basehttp 12136 24092 "GET / HTTP/1.1" 200 28095
+WARNING 2023-08-30 15:24:11,581 log 12136 24092 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:24:11,582 basehttp 12136 24092 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:24:22,617 views 12136 24092 Index page accessed
+INFO 2023-08-30 15:24:22,623 basehttp 12136 24092 "GET / HTTP/1.1" 200 28095
+INFO 2023-08-30 15:24:22,664 basehttp 12136 24092 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,664 basehttp 12136 19880 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,679 basehttp 12136 22560 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,679 basehttp 12136 15904 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,680 basehttp 12136 19880 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,680 basehttp 12136 21172 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,680 basehttp 12136 24092 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,680 basehttp 12136 5856 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,691 basehttp 12136 24092 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,692 basehttp 12136 22560 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,692 basehttp 12136 21172 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,693 basehttp 12136 15904 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,694 basehttp 12136 5856 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,695 basehttp 12136 19880 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,705 basehttp 12136 19880 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,706 basehttp 12136 22560 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,706 basehttp 12136 21172 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,706 basehttp 12136 15904 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,706 basehttp 12136 24092 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,706 basehttp 12136 5856 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,718 basehttp 12136 22560 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,718 basehttp 12136 19880 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,719 basehttp 12136 24092 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,719 basehttp 12136 5856 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,719 basehttp 12136 21172 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,720 basehttp 12136 15904 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,737 basehttp 12136 21172 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,738 basehttp 12136 24092 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,738 basehttp 12136 5856 "GET /static/images/vk.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,738 basehttp 12136 15904 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,739 basehttp 12136 19880 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-08-30 15:24:22,745 basehttp 12136 19880 "GET /static/images/pointer.png HTTP/1.1" 304 0
+WARNING 2023-08-30 15:24:22,749 log 12136 22560 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:24:22,751 basehttp 12136 22560 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:26:48,760 views 12136 19880 Index page accessed
+INFO 2023-08-30 15:26:48,763 basehttp 12136 19880 "GET / HTTP/1.1" 200 28095
+WARNING 2023-08-30 15:26:48,799 log 12136 19880 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:26:48,801 basehttp 12136 19880 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:26:50,498 views 12136 15904 Index page accessed
+INFO 2023-08-30 15:26:50,501 basehttp 12136 15904 "GET / HTTP/1.1" 200 28095
+WARNING 2023-08-30 15:26:50,533 log 12136 15904 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:26:50,535 basehttp 12136 15904 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:27:33,029 autoreload 23092 22264 Watching for file changes with StatReloader
+INFO 2023-08-30 15:28:00,277 views 23092 372 Index page accessed
+INFO 2023-08-30 15:28:00,295 basehttp 23092 372 "GET / HTTP/1.1" 200 28095
+INFO 2023-08-30 15:28:00,856 basehttp 23092 14496 "GET /static/css/flexslider.css HTTP/1.1" 200 6955
+INFO 2023-08-30 15:28:00,890 basehttp 23092 22576 "GET /static/css/style.css HTTP/1.1" 200 15971
+INFO 2023-08-30 15:28:00,892 basehttp 23092 13380 "GET /static/js/script.js HTTP/1.1" 200 92
+INFO 2023-08-30 15:28:00,907 basehttp 23092 8368 "GET /static/megamenu/css/style.css HTTP/1.1" 200 5569
+INFO 2023-08-30 15:28:00,920 basehttp 23092 13380 "GET /static/js/main.js HTTP/1.1" 200 103
+INFO 2023-08-30 15:28:00,933 basehttp 23092 22576 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 200 1799
+INFO 2023-08-30 15:28:00,949 basehttp 23092 22600 "GET /static/css/easydropdown.css HTTP/1.1" 200 3763
+INFO 2023-08-30 15:28:00,950 basehttp 23092 14496 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 200 12390
+INFO 2023-08-30 15:28:00,962 basehttp 23092 372 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 200 51319
+INFO 2023-08-30 15:28:00,968 basehttp 23092 8368 "GET /static/images/entrance.png HTTP/1.1" 200 1147
+INFO 2023-08-30 15:28:00,982 basehttp 23092 22576 "GET /static/images/basket.png HTTP/1.1" 200 1452
+INFO 2023-08-30 15:28:00,992 basehttp 23092 13380 "GET /static/images/logo.png HTTP/1.1" 200 16765
+INFO 2023-08-30 15:28:01,009 basehttp 23092 14496 "GET /static/images/material.png HTTP/1.1" 200 6102
+INFO 2023-08-30 15:28:01,139 basehttp 23092 22600 "GET /static/images/1963.jpg HTTP/1.1" 200 136757
+INFO 2023-08-30 15:28:01,152 basehttp 23092 8368 "GET /static/images/packaging.png HTTP/1.1" 200 7180
+INFO 2023-08-30 15:28:01,154 basehttp 23092 372 "GET /static/images/assortment.png HTTP/1.1" 200 6716
+INFO 2023-08-30 15:28:01,485 basehttp 23092 8368 "GET /static/images/24.jpg HTTP/1.1" 200 41280
+INFO 2023-08-30 15:28:01,503 basehttp 23092 14496 "GET /static/images/1.jpg HTTP/1.1" 200 23293
+INFO 2023-08-30 15:28:01,510 basehttp 23092 22576 "GET /static/images/3.jpg HTTP/1.1" 200 38157
+INFO 2023-08-30 15:28:01,525 basehttp 23092 372 "GET /static/images/22.jpg HTTP/1.1" 200 34651
+INFO 2023-08-30 15:28:01,532 basehttp 23092 14496 "GET /static/images/23.jpg HTTP/1.1" 200 24220
+INFO 2023-08-30 15:28:01,536 basehttp 23092 22576 "GET /static/images/21.jpg HTTP/1.1" 200 24653
+INFO 2023-08-30 15:28:01,552 basehttp 23092 8368 "GET /static/images/20.jpg HTTP/1.1" 200 55874
+INFO 2023-08-30 15:28:01,557 basehttp 23092 14496 "GET /static/images/26.jpg HTTP/1.1" 200 30967
+INFO 2023-08-30 15:28:01,572 basehttp 23092 22600 "GET /static/images/pannier.png HTTP/1.1" 200 1850
+INFO 2023-08-30 15:28:01,585 basehttp 23092 8368 "GET /static/images/9.jpg HTTP/1.1" 200 28661
+INFO 2023-08-30 15:28:01,602 basehttp 23092 372 "GET /static/images/27.jpg HTTP/1.1" 200 32766
+INFO 2023-08-30 15:28:01,626 basehttp 23092 13380 "GET /static/images/2.jpg HTTP/1.1" 200 31748
+INFO 2023-08-30 15:28:01,634 basehttp 23092 22576 "GET /static/images/25.jpg HTTP/1.1" 200 35519
+INFO 2023-08-30 15:28:01,812 basehttp 23092 22600 "GET /static/images/6.jpg HTTP/1.1" 200 30253
+INFO 2023-08-30 15:28:01,822 basehttp 23092 14496 "GET /static/images/5.jpg HTTP/1.1" 200 27836
+INFO 2023-08-30 15:28:01,872 basehttp 23092 372 "GET /static/images/7.jpg HTTP/1.1" 200 35818
+INFO 2023-08-30 15:28:01,979 basehttp 23092 13380 "GET /static/images/8.jpg HTTP/1.1" 200 20293
+INFO 2023-08-30 15:28:02,056 basehttp 23092 8368 "GET /static/images/4.jpg HTTP/1.1" 200 32838
+WARNING 2023-08-30 15:28:02,393 log 23092 22576 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:28:02,394 basehttp 23092 22576 "GET /js/jquery.flexslider.js HTTP/1.1" 404 2995
+INFO 2023-08-30 15:28:02,450 basehttp 23092 22600 "GET /static/images/vk.png HTTP/1.1" 200 1661
+INFO 2023-08-30 15:28:02,459 basehttp 23092 8368 "GET /static/images/pointer.png HTTP/1.1" 200 1000
+INFO 2023-08-30 15:28:02,471 basehttp 23092 14496 "GET /static/images/exposure.png HTTP/1.1" 200 1601
+WARNING 2023-08-30 15:28:02,581 log 23092 14496 Not Found: /favicon.ico
+WARNING 2023-08-30 15:28:02,582 basehttp 23092 14496 "GET /favicon.ico HTTP/1.1" 404 2959
+INFO 2023-08-30 15:33:06,050 views 23092 21300 Index page accessed
+ERROR 2023-08-30 15:33:06,457 log 23092 21300 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 23, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'news' not found. 'news' is not a valid view function or pattern name.
+ERROR 2023-08-30 15:33:06,465 basehttp 23092 21300 "GET / HTTP/1.1" 500 201069
+INFO 2023-08-30 15:37:56,527 autoreload 23092 22264 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-08-30 15:37:57,392 autoreload 17664 18268 Watching for file changes with StatReloader
+INFO 2023-08-30 15:39:42,966 autoreload 17664 18268 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-08-30 15:39:43,948 autoreload 2576 20600 Watching for file changes with StatReloader
+INFO 2023-08-30 15:46:37,960 autoreload 2576 20600 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-08-30 15:46:38,754 autoreload 7728 16036 Watching for file changes with StatReloader
+INFO 2023-08-30 15:46:45,443 views 7728 24460 Index page accessed
+ERROR 2023-08-30 15:46:45,533 log 7728 24460 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 23, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'news' not found. 'news' is not a valid view function or pattern name.
+ERROR 2023-08-30 15:46:45,541 basehttp 7728 24460 "GET / HTTP/1.1" 500 201185
+INFO 2023-08-30 15:53:01,817 autoreload 7728 16036 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\urls.py changed, reloading.
+INFO 2023-08-30 15:53:02,442 autoreload 23044 20780 Watching for file changes with StatReloader
+INFO 2023-08-30 15:53:16,673 views 23044 22032 Index page accessed
+INFO 2023-08-30 15:53:16,696 basehttp 23044 22032 "GET / HTTP/1.1" 200 28151
+WARNING 2023-08-30 15:53:16,788 log 23044 22032 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 15:53:16,789 basehttp 23044 22032 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 15:53:31,732 views 23044 22032 Working_conditions page accessed
+INFO 2023-08-30 15:53:31,733 basehttp 23044 22032 "GET /working_conditions/ HTTP/1.1" 200 27
+INFO 2023-08-30 15:53:39,470 views 23044 5916 Articles page accessed
+INFO 2023-08-30 15:53:39,471 basehttp 23044 5916 "GET /articles/ HTTP/1.1" 200 12
+INFO 2023-08-30 15:53:45,649 views 23044 22032 About page accessed
+ERROR 2023-08-30 15:53:45,695 log 23044 22032 Internal Server Error: /about/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 28, in about
+    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас'})
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: lesson_1/about.html
+ERROR 2023-08-30 15:53:45,697 basehttp 23044 22032 "GET /about/ HTTP/1.1" 500 83368
+INFO 2023-08-30 15:53:53,380 views 23044 22032 News page accessed
+INFO 2023-08-30 15:53:53,381 basehttp 23044 22032 "GET /news/ HTTP/1.1" 200 14
+INFO 2023-08-30 16:05:23,999 views 23044 21288 Index page accessed
+INFO 2023-08-30 16:05:24,004 basehttp 23044 21288 "GET / HTTP/1.1" 200 28151
+WARNING 2023-08-30 16:05:24,054 log 23044 21288 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:05:24,054 basehttp 23044 21288 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 16:08:04,337 autoreload 20748 16132 Watching for file changes with StatReloader
+INFO 2023-08-30 16:08:07,596 views 20748 23848 Index page accessed
+INFO 2023-08-30 16:08:07,622 basehttp 20748 23848 "GET / HTTP/1.1" 200 28151
+WARNING 2023-08-30 16:08:07,729 log 20748 23848 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:08:07,729 basehttp 20748 23848 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 16:08:13,536 views 20748 23848 About page accessed
+INFO 2023-08-30 16:08:13,539 basehttp 20748 23848 "GET /about/ HTTP/1.1" 200 10316
+WARNING 2023-08-30 16:08:13,619 log 20748 4520 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-08-30 16:08:13,622 basehttp 20748 4520 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3888
+INFO 2023-08-30 16:27:35,517 views 20748 21712 Index page accessed
+INFO 2023-08-30 16:27:35,522 basehttp 20748 21712 "GET / HTTP/1.1" 200 28151
+INFO 2023-08-30 16:27:35,570 basehttp 20748 21712 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-08-30 16:27:35,599 log 20748 21712 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:27:35,600 basehttp 20748 21712 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 16:27:39,026 views 20748 21712 About page accessed
+INFO 2023-08-30 16:27:39,029 basehttp 20748 21712 "GET /about/ HTTP/1.1" 200 10316
+WARNING 2023-08-30 16:27:39,074 log 20748 21712 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-08-30 16:27:39,075 basehttp 20748 21712 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3888
+INFO 2023-08-30 16:27:41,488 views 20748 21712 News page accessed
+INFO 2023-08-30 16:27:41,489 basehttp 20748 21712 "GET /news/ HTTP/1.1" 200 14
+INFO 2023-08-30 16:27:48,773 views 20748 21712 Articles page accessed
+INFO 2023-08-30 16:27:48,774 basehttp 20748 21712 "GET /articles/ HTTP/1.1" 200 12
+INFO 2023-08-30 16:30:08,809 views 20748 4520 Index page accessed
+INFO 2023-08-30 16:30:08,817 basehttp 20748 4520 "GET / HTTP/1.1" 200 28151
+WARNING 2023-08-30 16:30:08,900 log 20748 4520 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:30:08,901 basehttp 20748 4520 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 16:31:07,338 autoreload 20748 16132 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\templatetags\lesson1_extras.py changed, reloading.
+INFO 2023-08-30 16:31:08,081 autoreload 20856 21360 Watching for file changes with StatReloader
+INFO 2023-08-30 16:32:05,376 autoreload 20856 21360 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\templatetags\lesson1_extras.py changed, reloading.
+INFO 2023-08-30 16:32:06,077 autoreload 19524 23216 Watching for file changes with StatReloader
+INFO 2023-08-30 16:34:28,416 autoreload 16536 23428 Watching for file changes with StatReloader
+INFO 2023-08-30 16:34:32,740 views 16536 13940 Index page accessed
+INFO 2023-08-30 16:34:32,768 basehttp 16536 13940 "GET / HTTP/1.1" 200 28152
+WARNING 2023-08-30 16:34:32,872 log 16536 13940 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:34:32,873 basehttp 16536 13940 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-08-30 16:35:11,843 views 16536 17128 About page accessed
+INFO 2023-08-30 16:35:11,847 basehttp 16536 17128 "GET /about/ HTTP/1.1" 200 10317
+INFO 2023-08-30 16:35:11,878 basehttp 16536 17128 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-08-30 16:35:11,900 log 16536 21368 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-08-30 16:35:11,902 basehttp 16536 21368 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3888
+INFO 2023-08-30 16:35:14,343 views 16536 21368 About page accessed
+INFO 2023-08-30 16:35:14,347 basehttp 16536 21368 "GET /about/ HTTP/1.1" 200 10317
+WARNING 2023-08-30 16:35:14,379 log 16536 21368 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-08-30 16:35:14,382 basehttp 16536 21368 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3888
+INFO 2023-08-30 16:35:19,113 views 16536 21368 Index page accessed
+INFO 2023-08-30 16:35:19,118 basehttp 16536 21368 "GET / HTTP/1.1" 200 28152
+WARNING 2023-08-30 16:35:19,167 log 16536 21368 Not Found: /js/jquery.flexslider.js
+WARNING 2023-08-30 16:35:19,167 basehttp 16536 21368 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3870
+INFO 2023-09-01 20:15:45,147 autoreload 12800 16516 Watching for file changes with StatReloader
+INFO 2023-09-01 20:15:49,254 views 12800 18356 Index page accessed
+INFO 2023-09-01 20:15:49,476 basehttp 12800 18356 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-01 20:15:49,517 basehttp 12800 18356 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,517 basehttp 12800 24068 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,520 basehttp 12800 13504 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,522 basehttp 12800 19856 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,640 basehttp 12800 11148 "GET /static/css/style.css HTTP/1.1" 200 15971
+INFO 2023-09-01 20:15:49,859 basehttp 12800 13504 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 19856 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 18356 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,859 basehttp 12800 11148 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,860 basehttp 12800 24068 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:49,860 basehttp 12800 23660 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,099 basehttp 12800 23660 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,099 basehttp 12800 11148 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,100 basehttp 12800 18356 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,100 basehttp 12800 24068 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,103 basehttp 12800 13504 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,104 basehttp 12800 19856 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,115 basehttp 12800 23660 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,116 basehttp 12800 11148 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,117 basehttp 12800 18356 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,117 basehttp 12800 24068 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,193 basehttp 12800 18356 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,193 basehttp 12800 23660 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,194 basehttp 12800 13504 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,195 basehttp 12800 19856 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,444 basehttp 12800 23660 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,451 basehttp 12800 11148 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,452 basehttp 12800 24068 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,456 basehttp 12800 13504 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,459 basehttp 12800 18356 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,459 basehttp 12800 19856 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,491 basehttp 12800 11148 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,491 basehttp 12800 23660 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,492 basehttp 12800 24068 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 24068 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 18356 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-01 20:15:50,714 basehttp 12800 11148 "GET /static/images/vk.png HTTP/1.1" 304 0
+WARNING 2023-09-01 20:15:50,913 log 12800 23660 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-01 20:15:50,913 basehttp 12800 23660 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3680
+INFO 2023-09-01 20:18:28,454 basehttp 12800 23660 "GET /last/ HTTP/1.1" 200 417
+INFO 2023-09-01 20:19:09,337 autoreload 12800 16516 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2\urls.py changed, reloading.
+INFO 2023-09-01 20:19:10,155 autoreload 19088 3748 Watching for file changes with StatReloader
+INFO 2023-09-01 20:19:25,759 basehttp 19088 16404 "GET /index/ HTTP/1.1" 200 80
+INFO 2023-09-01 20:25:41,737 autoreload 19088 3748 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2\models.py changed, reloading.
+INFO 2023-09-01 20:25:42,465 autoreload 20784 12328 Watching for file changes with StatReloader
+INFO 2023-09-01 20:26:11,966 basehttp 20784 9048 "GET /last/ HTTP/1.1" 200 417
+INFO 2023-09-01 22:40:32,381 autoreload 22240 16988 Watching for file changes with StatReloader
+INFO 2023-09-01 22:40:37,101 views 22240 24064 Index page accessed
+INFO 2023-09-01 22:40:37,130 basehttp 22240 24064 "GET / HTTP/1.1" 200 28152
+WARNING 2023-09-01 22:40:37,263 log 22240 24064 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-01 22:40:37,263 basehttp 22240 24064 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3686
+WARNING 2023-09-01 22:41:25,088 log 22240 24064 Not Found: /author/
+WARNING 2023-09-01 22:41:25,089 basehttp 22240 24064 "GET /author/ HTTP/1.1" 404 3638
+INFO 2023-09-01 22:43:33,183 autoreload 22240 16988 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\urls.py changed, reloading.
+INFO 2023-09-01 22:43:33,888 autoreload 17132 24544 Watching for file changes with StatReloader
+ERROR 2023-09-01 22:43:38,195 log 17132 19552 Internal Server Error: /author/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py", line 7, in author
+    res = Author.object.all()
+AttributeError: type object 'Author' has no attribute 'object'
+ERROR 2023-09-01 22:43:38,197 basehttp 17132 19552 "GET /author/ HTTP/1.1" 500 66016
+INFO 2023-09-01 22:47:09,711 autoreload 17132 24544 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py changed, reloading.
+INFO 2023-09-01 22:47:10,443 autoreload 20156 23216 Watching for file changes with StatReloader
+INFO 2023-09-01 22:47:17,929 basehttp 20156 23672 "GET /author/ HTTP/1.1" 200 142
+INFO 2023-09-01 22:50:27,705 autoreload 20156 23216 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\views.py changed, reloading.
+INFO 2023-09-01 22:50:28,417 autoreload 23004 6760 Watching for file changes with StatReloader
+INFO 2023-09-01 22:50:32,581 basehttp 23004 18796 "GET /author/ HTTP/1.1" 200 182
+INFO 2023-09-02 09:10:46,652 autoreload 23004 6760 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:10:47,469 autoreload 26964 15060 Watching for file changes with StatReloader
+INFO 2023-09-02 09:14:36,784 autoreload 26964 15060 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:14:38,143 autoreload 8736 21432 Watching for file changes with StatReloader
+INFO 2023-09-02 09:19:53,807 autoreload 8736 21432 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:19:54,576 autoreload 25332 25608 Watching for file changes with StatReloader
+INFO 2023-09-02 09:21:50,404 autoreload 25332 25608 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:21:51,083 autoreload 256 20804 Watching for file changes with StatReloader
+INFO 2023-09-02 09:24:18,906 autoreload 256 20804 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:24:19,550 autoreload 20636 27600 Watching for file changes with StatReloader
+INFO 2023-09-02 09:37:23,821 autoreload 20636 27600 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 09:37:24,549 autoreload 23292 25376 Watching for file changes with StatReloader
+INFO 2023-09-02 10:40:39,202 autoreload 23292 25376 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar2_task3\models.py changed, reloading.
+INFO 2023-09-02 10:40:40,938 autoreload 26140 23244 Watching for file changes with StatReloader
+INFO 2023-09-02 17:31:01,021 autoreload 22044 17492 Watching for file changes with StatReloader
+INFO 2023-09-02 17:31:04,091 views 22044 8000 Index page accessed
+INFO 2023-09-02 17:31:04,220 basehttp 22044 8000 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-02 17:31:04,292 basehttp 22044 8000 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-09-02 17:31:04,929 log 22044 8000 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 17:31:04,930 basehttp 22044 8000 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 17:32:38,306 views 22044 8000 News page accessed
+INFO 2023-09-02 17:32:38,307 basehttp 22044 8000 "GET /news/ HTTP/1.1" 200 14
+INFO 2023-09-02 17:32:44,006 views 22044 8000 About page accessed
+INFO 2023-09-02 17:32:44,015 basehttp 22044 8000 "GET /about/ HTTP/1.1" 200 10317
+WARNING 2023-09-02 17:32:44,056 log 22044 24372 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-02 17:32:44,058 basehttp 22044 24372 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 3873
+INFO 2023-09-02 17:32:50,325 views 22044 24372 Articles page accessed
+INFO 2023-09-02 17:32:50,326 basehttp 22044 24372 "GET /articles/ HTTP/1.1" 200 12
+INFO 2023-09-02 17:45:44,622 autoreload 22044 17492 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 17:45:45,744 autoreload 5436 25896 Watching for file changes with StatReloader
+INFO 2023-09-02 17:49:05,414 autoreload 5436 25896 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 17:49:06,213 autoreload 15048 11076 Watching for file changes with StatReloader
+INFO 2023-09-02 18:01:47,478 autoreload 15048 11076 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\settings.py changed, reloading.
+INFO 2023-09-02 18:01:48,170 autoreload 25524 26504 Watching for file changes with StatReloader
+INFO 2023-09-02 18:01:58,237 views 25524 5592 Index page accessed
+INFO 2023-09-02 18:01:58,269 basehttp 25524 5592 "GET / HTTP/1.1" 200 28152
+WARNING 2023-09-02 18:01:58,369 log 25524 5592 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 18:01:58,370 basehttp 25524 5592 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 18:08:56,713 autoreload 25524 26504 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-02 18:08:57,752 autoreload 256 22220 Watching for file changes with StatReloader
+INFO 2023-09-02 23:46:59,356 autoreload 18896 24908 Watching for file changes with StatReloader
+INFO 2023-09-02 23:49:07,557 autoreload 18896 24908 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 23:49:08,142 autoreload 26756 23700 Watching for file changes with StatReloader
+INFO 2023-09-02 23:52:11,407 autoreload 26756 23700 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-02 23:52:12,479 autoreload 25100 11140 Watching for file changes with StatReloader
+INFO 2023-09-02 23:52:22,416 views 25100 27172 Index page accessed
+INFO 2023-09-02 23:52:22,456 basehttp 25100 27172 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-02 23:52:22,491 basehttp 25100 27172 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,492 basehttp 25100 23208 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,499 basehttp 25100 7188 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,500 basehttp 25100 25132 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,558 basehttp 25100 7188 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 5752 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 23208 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,559 basehttp 25100 25132 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,560 basehttp 25100 27172 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,561 basehttp 25100 2128 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,572 basehttp 25100 2128 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,574 basehttp 25100 7188 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,575 basehttp 25100 25132 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,575 basehttp 25100 27172 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,576 basehttp 25100 23208 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,576 basehttp 25100 5752 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,580 basehttp 25100 2128 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 7188 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 23208 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,590 basehttp 25100 5752 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,591 basehttp 25100 27172 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,591 basehttp 25100 25132 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,592 basehttp 25100 2128 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,614 basehttp 25100 7188 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 25132 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 5752 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,618 basehttp 25100 2128 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,619 basehttp 25100 27172 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,619 basehttp 25100 23208 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,625 basehttp 25100 7188 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,641 basehttp 25100 5752 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,641 basehttp 25100 7188 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,644 basehttp 25100 27172 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,645 basehttp 25100 23208 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-09-02 23:52:22,649 basehttp 25100 25132 "GET /static/images/vk.png HTTP/1.1" 304 0
+WARNING 2023-09-02 23:52:22,673 log 25100 2128 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-02 23:52:22,674 basehttp 25100 2128 "GET /js/jquery.flexslider.js HTTP/1.1" 404 3855
+INFO 2023-09-02 23:52:22,697 basehttp 25100 2128 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-03 14:09:48,916 autoreload 18448 22376 Watching for file changes with StatReloader
+INFO 2023-09-03 14:35:19,209 autoreload 18448 22376 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\seminar\urls.py changed, reloading.
+INFO 2023-09-03 14:35:19,973 autoreload 17460 24864 Watching for file changes with StatReloader
+INFO 2023-09-03 14:37:40,727 autoreload 2072 3564 Watching for file changes with StatReloader
+INFO 2023-09-03 14:41:52,030 autoreload 2072 3564 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:41:52,659 autoreload 4212 27060 Watching for file changes with StatReloader
+INFO 2023-09-03 14:42:02,591 views 4212 25504 Index page accessed
+INFO 2023-09-03 14:42:02,866 basehttp 4212 25504 "GET / HTTP/1.1" 200 28152
+INFO 2023-09-03 14:42:03,046 basehttp 4212 25504 "GET /static/css/style.css HTTP/1.1" 304 0
+WARNING 2023-09-03 14:42:04,175 log 4212 25504 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 14:42:04,175 basehttp 4212 25504 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4015
+INFO 2023-09-03 14:43:46,187 autoreload 4212 27060 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\urls.py changed, reloading.
+INFO 2023-09-03 14:43:46,829 autoreload 23880 27008 Watching for file changes with StatReloader
+INFO 2023-09-03 14:44:03,871 views 23880 22960 Index page accessed
+INFO 2023-09-03 14:44:03,887 basehttp 23880 22960 "GET / HTTP/1.1" 200 28162
+WARNING 2023-09-03 14:44:03,948 log 23880 22960 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 14:44:03,949 basehttp 23880 22960 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4020
+ERROR 2023-09-03 14:44:19,311 log 23880 22960 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 8, in index
+    result = type(Product.prise)
+AttributeError: type object 'Product' has no attribute 'prise'
+ERROR 2023-09-03 14:44:19,314 basehttp 23880 22960 "GET /type/ HTTP/1.1" 500 65994
+INFO 2023-09-03 14:46:34,689 autoreload 23880 27008 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:46:35,312 autoreload 17696 17308 Watching for file changes with StatReloader
+INFO 2023-09-03 14:46:45,225 basehttp 17696 11704 "GET /type/ HTTP/1.1" 200 56
+INFO 2023-09-03 14:48:56,523 autoreload 17696 17308 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:48:57,240 autoreload 25504 11496 Watching for file changes with StatReloader
+INFO 2023-09-03 14:49:09,520 basehttp 25504 24732 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:04,167 autoreload 25504 11496 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:51:04,790 autoreload 12200 7740 Watching for file changes with StatReloader
+INFO 2023-09-03 14:51:13,107 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:14,728 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:15,763 basehttp 12200 20400 "GET /type/ HTTP/1.1" 200 77
+INFO 2023-09-03 14:51:53,944 autoreload 12200 7740 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:51:54,561 autoreload 5484 14584 Watching for file changes with StatReloader
+INFO 2023-09-03 14:52:03,569 basehttp 5484 23880 "GET /type/ HTTP/1.1" 200 6
+INFO 2023-09-03 14:53:48,145 autoreload 5484 14584 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\models.py changed, reloading.
+INFO 2023-09-03 14:53:48,894 autoreload 15736 12960 Watching for file changes with StatReloader
+INFO 2023-09-03 14:54:43,122 autoreload 15736 12960 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:54:43,750 autoreload 21096 23780 Watching for file changes with StatReloader
+INFO 2023-09-03 14:54:51,962 basehttp 21096 21752 "GET /type/ HTTP/1.1" 200 4
+INFO 2023-09-03 14:55:22,225 autoreload 21096 23780 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:55:22,843 autoreload 26848 27104 Watching for file changes with StatReloader
+INFO 2023-09-03 14:55:30,940 basehttp 26848 7172 "GET /type/ HTTP/1.1" 200 15
+INFO 2023-09-03 14:55:33,072 basehttp 26848 7172 "GET /type/ HTTP/1.1" 200 15
+INFO 2023-09-03 14:58:15,729 autoreload 26848 27104 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 14:58:16,372 autoreload 25152 11368 Watching for file changes with StatReloader
+INFO 2023-09-03 14:59:23,178 autoreload 27624 16016 Watching for file changes with StatReloader
+INFO 2023-09-03 15:58:29,621 autoreload 27624 16016 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 15:58:30,449 autoreload 20400 21448 Watching for file changes with StatReloader
+ERROR 2023-09-03 15:58:40,284 log 20400 13984 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 10, in index
+    return HttpResponse(f'{products}')
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\db\models\query.py", line 377, in __repr__
+    return "<%s %r>" % (self.__class__.__name__, data)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\db\models\base.py", line 588, in __repr__
+    return "<%s: %s>" % (self.__class__.__name__, self)
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2023-09-03 15:58:40,288 basehttp 20400 13984 "GET /type/ HTTP/1.1" 500 73403
+INFO 2023-09-03 16:01:04,973 autoreload 20400 21448 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:01:05,622 autoreload 9168 20500 Watching for file changes with StatReloader
+ERROR 2023-09-03 16:01:15,575 log 9168 17256 Internal Server Error: /type/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py", line 10, in index
+    return HttpResponse(f'{item}')
+TypeError: __str__ returned non-string (type tuple)
+ERROR 2023-09-03 16:01:15,577 basehttp 9168 17256 "GET /type/ HTTP/1.1" 500 66180
+INFO 2023-09-03 16:02:50,770 autoreload 9168 20500 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\models.py changed, reloading.
+INFO 2023-09-03 16:02:51,403 autoreload 16300 26168 Watching for file changes with StatReloader
+INFO 2023-09-03 16:02:59,886 basehttp 16300 23584 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:17:21,999 autoreload 16300 26168 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:17:22,680 autoreload 24300 1684 Watching for file changes with StatReloader
+INFO 2023-09-03 16:17:30,215 basehttp 24300 21400 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:17:34,725 basehttp 24300 21400 "GET /type/ HTTP/1.1" 200 14
+INFO 2023-09-03 16:18:37,667 autoreload 24300 1684 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\homework2\views.py changed, reloading.
+INFO 2023-09-03 16:18:38,300 autoreload 23388 15616 Watching for file changes with StatReloader
+INFO 2023-09-03 16:18:46,446 basehttp 23388 11916 "GET /type/ HTTP/1.1" 200 6
+INFO 2023-09-03 22:10:04,190 autoreload 21312 15128 Watching for file changes with StatReloader
+INFO 2023-09-03 22:10:07,078 views 21312 15584 Index page accessed
+INFO 2023-09-03 22:10:07,206 basehttp 21312 15584 "GET / HTTP/1.1" 200 28162
+WARNING 2023-09-03 22:10:08,050 log 21312 15584 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 22:10:08,051 basehttp 21312 15584 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-03 22:11:31,945 views 21312 15584 About page accessed
+INFO 2023-09-03 22:11:31,990 basehttp 21312 15584 "GET /about/ HTTP/1.1" 200 10327
+WARNING 2023-09-03 22:11:32,044 log 21312 15584 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-03 22:11:32,045 basehttp 21312 15584 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+WARNING 2023-09-03 22:11:35,553 log 21312 15584 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-03 22:11:35,554 basehttp 21312 15584 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-03 22:12:12,725 basehttp 21312 15584 "GET /admin HTTP/1.1" 301 0
+INFO 2023-09-03 22:12:12,785 basehttp 21312 22316 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-09-03 22:12:13,174 basehttp 21312 22316 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4264
+INFO 2023-09-03 22:12:13,577 basehttp 21312 3076 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2023-09-03 22:12:13,577 basehttp 21312 19268 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-09-03 22:12:13,579 basehttp 21312 22316 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-09-03 22:12:13,604 basehttp 21312 28008 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-09-03 22:12:13,605 basehttp 21312 28592 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-09-03 22:12:13,682 basehttp 21312 19268 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-09-03 22:12:13,682 basehttp 21312 22316 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-09-03 22:12:17,880 basehttp 21312 19268 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-09-03 22:12:18,063 basehttp 21312 19268 "GET /admin/ HTTP/1.1" 200 5849
+INFO 2023-09-03 22:12:18,134 basehttp 21312 22316 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-09-03 22:12:18,177 basehttp 21312 19268 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-09-03 22:12:18,178 basehttp 21312 22316 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-09-04 14:29:20,495 views 21312 26344 Index page accessed
+INFO 2023-09-04 14:29:20,509 basehttp 21312 26344 "GET / HTTP/1.1" 200 28162
+INFO 2023-09-04 14:29:20,600 basehttp 21312 24060 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,601 basehttp 21312 26344 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,618 basehttp 21312 27496 "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,618 basehttp 21312 12848 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,619 basehttp 21312 22032 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,713 basehttp 21312 12848 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,729 basehttp 21312 22032 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,729 basehttp 21312 24060 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,729 basehttp 21312 27496 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,739 basehttp 21312 23648 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,740 basehttp 21312 26344 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,859 basehttp 21312 24060 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,861 basehttp 21312 26344 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,861 basehttp 21312 23648 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,862 basehttp 21312 22032 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,869 basehttp 21312 27496 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,870 basehttp 21312 26344 "GET /static/images/23.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,870 basehttp 21312 22032 "GET /static/images/25.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,870 basehttp 21312 24060 "GET /static/images/22.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,870 basehttp 21312 12848 "GET /static/images/24.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,871 basehttp 21312 23648 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,879 basehttp 21312 22032 "GET /static/images/27.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,879 basehttp 21312 26344 "GET /static/images/26.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,880 basehttp 21312 24060 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,881 basehttp 21312 23648 "GET /static/images/21.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,990 basehttp 21312 24060 "GET /static/images/8.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,990 basehttp 21312 27496 "GET /static/images/9.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,991 basehttp 21312 26344 "GET /static/images/5.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,991 basehttp 21312 22032 "GET /static/images/3.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,991 basehttp 21312 12848 "GET /static/images/7.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:20,993 basehttp 21312 23648 "GET /static/images/2.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,002 basehttp 21312 24060 "GET /static/images/6.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,003 basehttp 21312 22032 "GET /static/images/4.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,003 basehttp 21312 26344 "GET /static/images/1.jpg HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,118 basehttp 21312 22032 "GET /static/images/vk.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,146 basehttp 21312 26344 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-04 14:29:21,189 basehttp 21312 24060 "GET /static/images/exposure.png HTTP/1.1" 304 0
+WARNING 2023-09-04 14:29:21,234 log 21312 22032 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 14:29:21,236 basehttp 21312 22032 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 16:45:38,217 autoreload 27784 23876 Watching for file changes with StatReloader
+INFO 2023-09-04 16:45:44,128 views 27784 5268 Index page accessed
+INFO 2023-09-04 16:45:44,295 basehttp 27784 5268 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 16:45:44,939 log 27784 5268 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 16:45:44,940 basehttp 27784 5268 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 16:48:21,249 views 27784 5268 Index page accessed
+INFO 2023-09-04 16:48:21,255 basehttp 27784 5268 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 16:48:21,306 log 27784 5268 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 16:48:21,308 basehttp 27784 5268 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:01:52,936 autoreload 27784 23876 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:01:53,663 autoreload 27576 22244 Watching for file changes with StatReloader
+INFO 2023-09-04 17:02:02,714 views 27576 25396 Index page accessed
+INFO 2023-09-04 17:02:02,753 basehttp 27576 25396 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 17:02:02,849 log 27576 25396 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:02:02,850 basehttp 27576 25396 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:02:07,947 views 27576 25396 About page accessed
+INFO 2023-09-04 17:02:07,954 basehttp 27576 25396 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:02:08,004 log 27576 27244 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:02:08,005 basehttp 27576 27244 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:05:37,304 views 27576 25396 About page accessed
+INFO 2023-09-04 17:05:37,318 basehttp 27576 25396 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:05:37,350 log 27576 27244 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:05:37,351 basehttp 27576 27244 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:05:38,800 views 27576 25396 About page accessed
+INFO 2023-09-04 17:05:38,804 basehttp 27576 25396 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:05:38,893 log 27576 27244 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:05:38,894 basehttp 27576 27244 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:05:40,116 views 27576 27244 About page accessed
+INFO 2023-09-04 17:05:40,121 basehttp 27576 27244 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:05:40,153 log 27576 25396 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:05:40,154 basehttp 27576 25396 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:08:48,600 autoreload 17104 28604 Watching for file changes with StatReloader
+INFO 2023-09-04 17:08:53,711 views 17104 28164 Index page accessed
+INFO 2023-09-04 17:08:53,742 basehttp 17104 28164 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 17:08:53,892 log 17104 28164 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:08:53,893 basehttp 17104 28164 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:08:57,986 views 17104 28164 About page accessed
+INFO 2023-09-04 17:08:57,992 basehttp 17104 28164 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:08:58,022 log 17104 15912 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:08:58,023 basehttp 17104 15912 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:10:22,771 autoreload 17104 28604 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:10:23,406 autoreload 25112 6516 Watching for file changes with StatReloader
+INFO 2023-09-04 17:10:28,673 views 25112 28124 Index page accessed
+INFO 2023-09-04 17:10:28,707 basehttp 25112 28124 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 17:10:28,799 log 25112 28124 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:10:28,800 basehttp 25112 28124 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:11:08,597 views 25112 28124 About page accessed
+INFO 2023-09-04 17:11:08,604 basehttp 25112 28124 "GET /about/ HTTP/1.1" 200 10576
+WARNING 2023-09-04 17:11:08,649 log 25112 28124 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:11:08,651 basehttp 25112 28124 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:14:33,188 autoreload 25112 6516 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:14:33,866 autoreload 13008 27068 Watching for file changes with StatReloader
+INFO 2023-09-04 17:16:05,090 autoreload 15996 28444 Watching for file changes with StatReloader
+INFO 2023-09-04 17:16:48,549 views 15996 11300 Index page accessed
+INFO 2023-09-04 17:16:48,582 basehttp 15996 11300 "GET / HTTP/1.1" 200 28406
+WARNING 2023-09-04 17:16:48,684 log 15996 11300 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:16:48,685 basehttp 15996 11300 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:22:52,253 autoreload 15996 28444 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:22:52,904 autoreload 27016 15628 Watching for file changes with StatReloader
+INFO 2023-09-04 17:23:03,718 views 27016 21944 Index page accessed
+ERROR 2023-09-04 17:23:04,204 log 27016 21944 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 30, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\library.py", line 278, in render
+    return t.render(new_context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py", line 16, in get_absolute_url
+    return reverse('category', kwargs={"slug": self.slug})
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'category' not found. 'category' is not a valid view function or pattern name.
+ERROR 2023-09-04 17:23:04,216 basehttp 27016 21944 "GET / HTTP/1.1" 500 244330
+INFO 2023-09-04 17:25:34,729 views 27016 21944 Index page accessed
+ERROR 2023-09-04 17:25:34,811 log 27016 21944 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 30, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\library.py", line 278, in render
+    return t.render(new_context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py", line 16, in get_absolute_url
+    return reverse('category', kwargs={"slug": self.slug})
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'category' not found. 'category' is not a valid view function or pattern name.
+ERROR 2023-09-04 17:25:34,828 basehttp 27016 21944 "GET / HTTP/1.1" 500 244330
+INFO 2023-09-04 17:27:37,394 views 27016 16996 About page accessed
+INFO 2023-09-04 17:27:37,404 basehttp 27016 16996 "GET /about/ HTTP/1.1" 200 10684
+WARNING 2023-09-04 17:27:37,464 log 27016 16996 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:27:37,465 basehttp 27016 16996 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:27:48,530 views 27016 21944 About page accessed
+INFO 2023-09-04 17:27:48,535 basehttp 27016 21944 "GET /about/ HTTP/1.1" 200 10684
+WARNING 2023-09-04 17:27:48,568 log 27016 16996 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:27:48,569 basehttp 27016 16996 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:27:58,620 views 27016 16996 About page accessed
+INFO 2023-09-04 17:27:58,628 basehttp 27016 16996 "GET /about/ HTTP/1.1" 200 10684
+WARNING 2023-09-04 17:27:58,657 log 27016 16996 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:27:58,657 basehttp 27016 16996 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:28:05,726 views 27016 25052 About page accessed
+INFO 2023-09-04 17:28:05,733 basehttp 27016 25052 "GET /about/ HTTP/1.1" 200 10684
+INFO 2023-09-04 17:28:05,749 basehttp 27016 25052 - Broken pipe from ('127.0.0.1', 63751)
+WARNING 2023-09-04 17:28:05,765 log 27016 21944 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-04 17:28:05,766 basehttp 27016 21944 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4164
+INFO 2023-09-04 17:32:27,832 autoreload 24328 25380 Watching for file changes with StatReloader
+INFO 2023-09-04 17:32:45,418 views 24328 26800 Index page accessed
+INFO 2023-09-04 17:32:45,442 basehttp 24328 26800 "GET / HTTP/1.1" 200 28337
+WARNING 2023-09-04 17:32:45,554 log 24328 26800 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:32:45,555 basehttp 24328 26800 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:39:22,616 views 24328 12304 Index page accessed
+ERROR 2023-09-04 17:39:22,718 log 24328 12304 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 30, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\library.py", line 278, in render
+    return t.render(new_context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 1064, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 715, in resolve
+    obj = self.var.resolve(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 847, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 914, in _resolve_lookup
+    current = current()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py", line 16, in get_absolute_url
+    return reverse('category', kwargs={"slug": self.slug})
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'category' not found. 'category' is not a valid view function or pattern name.
+ERROR 2023-09-04 17:39:22,728 basehttp 24328 12304 "GET / HTTP/1.1" 500 244330
+INFO 2023-09-04 17:42:34,324 views 24328 12304 Index page accessed
+INFO 2023-09-04 17:42:34,345 basehttp 24328 12304 "GET / HTTP/1.1" 200 28757
+WARNING 2023-09-04 17:42:34,457 log 24328 12304 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:42:34,458 basehttp 24328 12304 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4146
+INFO 2023-09-04 17:48:38,667 autoreload 24328 25380 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\urls.py changed, reloading.
+INFO 2023-09-04 17:48:39,371 autoreload 7508 27576 Watching for file changes with StatReloader
+INFO 2023-09-04 17:50:18,647 autoreload 7508 27576 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\urls.py changed, reloading.
+INFO 2023-09-04 17:50:19,393 autoreload 27680 28312 Watching for file changes with StatReloader
+INFO 2023-09-04 17:54:11,385 autoreload 27680 28312 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:54:12,074 autoreload 28420 25128 Watching for file changes with StatReloader
+INFO 2023-09-04 17:56:53,033 autoreload 28420 25128 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 17:56:53,682 autoreload 11268 18720 Watching for file changes with StatReloader
+INFO 2023-09-04 17:58:50,256 views 11268 26388 Index page accessed
+INFO 2023-09-04 17:58:50,283 basehttp 11268 26388 "GET / HTTP/1.1" 200 28907
+WARNING 2023-09-04 17:58:50,350 log 11268 26388 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 17:58:50,351 basehttp 11268 26388 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-04 18:02:29,552 autoreload 11268 18720 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-04 18:02:30,312 autoreload 24408 11992 Watching for file changes with StatReloader
+INFO 2023-09-04 20:19:37,715 autoreload 18044 17580 Watching for file changes with StatReloader
+INFO 2023-09-04 20:19:46,518 views 18044 27112 Index page accessed
+INFO 2023-09-04 20:19:46,779 basehttp 18044 27112 "GET / HTTP/1.1" 200 34834
+INFO 2023-09-04 20:19:47,859 basehttp 18044 27112 "GET /media/1.jpg HTTP/1.1" 200 23293
+INFO 2023-09-04 20:19:47,916 basehttp 18044 27112 "GET /media/7.jpg HTTP/1.1" 200 35818
+INFO 2023-09-04 20:19:47,960 basehttp 18044 27112 "GET /media/8.jpg HTTP/1.1" 200 20293
+INFO 2023-09-04 20:19:47,993 basehttp 18044 27112 "GET /media/9.jpg HTTP/1.1" 200 28661
+INFO 2023-09-04 20:19:48,086 basehttp 18044 28052 "GET /media/4.jpg HTTP/1.1" 200 32838
+INFO 2023-09-04 20:19:48,087 basehttp 18044 21808 "GET /media/3.jpg HTTP/1.1" 200 38157
+INFO 2023-09-04 20:19:48,107 basehttp 18044 11616 "GET /media/5.jpg HTTP/1.1" 200 27836
+INFO 2023-09-04 20:19:48,134 basehttp 18044 19224 "GET /media/6.jpg HTTP/1.1" 200 30253
+INFO 2023-09-04 20:19:48,134 basehttp 18044 24268 "GET /media/2.jpg HTTP/1.1" 200 31748
+WARNING 2023-09-04 20:19:48,434 log 18044 27112 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-04 20:19:48,437 basehttp 18044 27112 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-04 21:33:12,496 autoreload 18044 17580 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-04 21:33:13,230 autoreload 18952 20576 Watching for file changes with StatReloader
+INFO 2023-09-04 21:36:07,660 autoreload 23400 25628 Watching for file changes with StatReloader
+INFO 2023-09-04 22:01:18,305 autoreload 23400 25628 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-04 22:01:18,976 autoreload 26076 27396 Watching for file changes with StatReloader
+INFO 2023-09-04 22:02:52,523 autoreload 25908 26016 Watching for file changes with StatReloader
+INFO 2023-09-04 22:19:19,519 autoreload 25908 26016 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-04 22:19:20,162 autoreload 19236 24056 Watching for file changes with StatReloader
+INFO 2023-09-04 22:20:44,396 autoreload 18372 25996 Watching for file changes with StatReloader
+INFO 2023-09-04 22:52:12,526 autoreload 18372 25996 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-04 22:52:13,210 autoreload 26644 7772 Watching for file changes with StatReloader
+INFO 2023-09-04 23:23:03,270 autoreload 7740 7780 Watching for file changes with StatReloader
+INFO 2023-09-04 23:27:41,745 autoreload 24400 13472 Watching for file changes with StatReloader
+INFO 2023-09-04 23:27:55,912 basehttp 24400 24212 "GET /admin HTTP/1.1" 301 0
+INFO 2023-09-04 23:27:56,295 basehttp 24400 24740 "GET /admin/ HTTP/1.1" 200 8368
+INFO 2023-09-04 23:27:56,572 basehttp 24400 23928 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+INFO 2023-09-04 23:27:56,572 basehttp 24400 24328 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2023-09-04 23:27:56,573 basehttp 24400 24740 "GET /static/admin/css/base.css HTTP/1.1" 200 21207
+INFO 2023-09-04 23:27:56,578 basehttp 24400 13404 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+INFO 2023-09-04 23:27:56,584 basehttp 24400 16300 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+INFO 2023-09-04 23:27:56,764 basehttp 24400 13404 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2023-09-04 23:27:56,779 basehttp 24400 24328 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2023-09-04 23:27:56,798 basehttp 24400 16300 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2023-09-04 23:27:56,799 basehttp 24400 24740 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2023-09-04 23:28:05,176 basehttp 24400 24740 "GET /admin/lesson_1/product/ HTTP/1.1" 200 9089
+INFO 2023-09-04 23:28:05,256 basehttp 24400 24328 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:28:05,301 basehttp 24400 16300 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+INFO 2023-09-04 23:28:05,440 basehttp 24400 3356 "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+INFO 2023-09-04 23:28:05,440 basehttp 24400 23928 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2023-09-04 23:28:05,480 basehttp 24400 16300 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2023-09-04 23:28:05,480 basehttp 24400 24328 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2023-09-04 23:28:05,481 basehttp 24400 24740 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+INFO 2023-09-04 23:28:05,530 basehttp 24400 23928 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2023-09-04 23:28:05,533 basehttp 24400 13404 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+INFO 2023-09-04 23:28:05,543 basehttp 24400 3356 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2023-09-04 23:28:05,647 basehttp 24400 3356 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2023-09-04 23:28:05,648 basehttp 24400 13404 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2023-09-04 23:28:10,644 basehttp 24400 13404 "GET /admin/lesson_1/product/add/ HTTP/1.1" 200 23395
+INFO 2023-09-04 23:28:10,675 basehttp 24400 23928 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:28:10,689 basehttp 24400 23928 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2023-09-04 23:28:10,714 basehttp 24400 3356 "GET /static/admin/css/forms.css HTTP/1.1" 200 9047
+INFO 2023-09-04 23:28:10,714 basehttp 24400 23928 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2023-09-04 23:28:10,732 basehttp 24400 3356 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2023-09-04 23:28:10,748 basehttp 24400 23928 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+INFO 2023-09-04 23:29:47,627 basehttp 24400 23928 "GET /admin/lesson_1/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 5358
+INFO 2023-09-04 23:29:47,664 basehttp 24400 3356 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:51:40,381 basehttp 24400 20724 "POST /admin/lesson_1/product/add/ HTTP/1.1" 200 23772
+INFO 2023-09-04 23:51:40,525 basehttp 24400 21696 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:53:05,434 autoreload 24400 13472 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\models.py changed, reloading.
+INFO 2023-09-04 23:53:06,146 autoreload 21968 18148 Watching for file changes with StatReloader
+INFO 2023-09-04 23:53:40,829 autoreload 19432 26588 Watching for file changes with StatReloader
+INFO 2023-09-04 23:54:06,099 basehttp 19432 5592 "POST /admin/lesson_1/product/add/ HTTP/1.1" 302 0
+INFO 2023-09-04 23:54:06,293 basehttp 19432 5592 "GET /admin/lesson_1/product/ HTTP/1.1" 200 10591
+INFO 2023-09-04 23:54:06,324 basehttp 19432 15120 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:54:06,417 basehttp 19432 15120 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2023-09-04 23:54:29,223 basehttp 19432 15120 "GET /admin/lesson_1/product/1/change/ HTTP/1.1" 200 24174
+INFO 2023-09-04 23:54:29,262 basehttp 19432 5592 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-04 23:55:17,785 basehttp 19432 5592 "POST /admin/lesson_1/product/1/change/ HTTP/1.1" 302 0
+INFO 2023-09-04 23:55:17,887 basehttp 19432 5592 "GET /admin/lesson_1/product/ HTTP/1.1" 200 10593
+INFO 2023-09-04 23:55:17,916 basehttp 19432 15120 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:23:32,483 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14975
+INFO 2023-09-05 02:23:32,519 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:23:45,464 basehttp 19432 21484 "GET /admin/lesson_1/product/15/change/ HTTP/1.1" 200 23979
+INFO 2023-09-05 02:23:45,497 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:24:26,289 basehttp 19432 13172 "GET /admin/lesson_1/product/15/history/ HTTP/1.1" 200 8065
+INFO 2023-09-05 02:24:32,032 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14975
+INFO 2023-09-05 02:24:32,065 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:24:50,427 basehttp 19432 21484 "GET /admin/lesson_1/product/1/change/ HTTP/1.1" 200 24174
+INFO 2023-09-05 02:24:50,460 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:25:43,175 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14975
+INFO 2023-09-05 02:25:43,213 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:25:49,539 basehttp 19432 21484 "GET /admin/lesson_1/product/2/change/ HTTP/1.1" 200 24121
+INFO 2023-09-05 02:25:49,568 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:28:15,180 basehttp 19432 13172 "POST /admin/lesson_1/product/2/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:28:15,330 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15201
+INFO 2023-09-05 02:28:15,361 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:28:57,740 basehttp 19432 21484 "GET /admin/lesson_1/product/3/change/ HTTP/1.1" 200 24160
+INFO 2023-09-05 02:28:57,773 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:29:24,245 basehttp 19432 13172 "POST /admin/lesson_1/product/3/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:29:24,343 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15198
+INFO 2023-09-05 02:29:24,370 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:29:32,558 basehttp 19432 21484 "GET /admin/lesson_1/product/4/change/ HTTP/1.1" 200 24015
+INFO 2023-09-05 02:29:32,595 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:29:51,198 basehttp 19432 21484 "POST /admin/lesson_1/product/4/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:29:51,348 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15201
+INFO 2023-09-05 02:29:51,376 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:29:54,623 basehttp 19432 13172 "GET /admin/lesson_1/product/3/change/ HTTP/1.1" 200 24192
+INFO 2023-09-05 02:29:54,652 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:30:02,716 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14974
+INFO 2023-09-05 02:30:02,744 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:30:10,119 basehttp 19432 13172 "GET /admin/lesson_1/product/5/change/ HTTP/1.1" 200 24217
+INFO 2023-09-05 02:30:10,151 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:30:26,610 basehttp 19432 21484 "POST /admin/lesson_1/product/5/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:30:26,733 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15209
+INFO 2023-09-05 02:30:26,760 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:30:37,753 basehttp 19432 13172 "GET /admin/lesson_1/product/6/change/ HTTP/1.1" 200 24148
+INFO 2023-09-05 02:30:37,791 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:31:17,326 basehttp 19432 21484 "POST /admin/lesson_1/product/6/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:31:17,438 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15195
+INFO 2023-09-05 02:31:17,466 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:31:27,033 basehttp 19432 13172 "GET /admin/lesson_1/product/6/change/ HTTP/1.1" 200 24184
+INFO 2023-09-05 02:31:27,067 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:31:39,273 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14974
+INFO 2023-09-05 02:31:39,299 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:31:47,907 basehttp 19432 13172 "GET /admin/lesson_1/product/7/change/ HTTP/1.1" 200 24201
+INFO 2023-09-05 02:31:47,935 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:32:07,131 basehttp 19432 21484 "POST /admin/lesson_1/product/7/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:32:07,241 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15206
+INFO 2023-09-05 02:32:07,267 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:32:21,251 basehttp 19432 13172 "GET /admin/lesson_1/product/8/change/ HTTP/1.1" 200 24189
+INFO 2023-09-05 02:32:21,281 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:32:41,952 basehttp 19432 21484 "POST /admin/lesson_1/product/8/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:32:42,097 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15212
+INFO 2023-09-05 02:32:42,126 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:33:15,941 basehttp 19432 13172 "GET /admin/lesson_1/product/8/change/ HTTP/1.1" 200 24225
+INFO 2023-09-05 02:33:15,976 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:33:20,327 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14974
+INFO 2023-09-05 02:33:20,358 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:33:23,573 basehttp 19432 13172 "GET /admin/lesson_1/product/9/change/ HTTP/1.1" 200 24145
+INFO 2023-09-05 02:33:23,610 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:34:17,205 basehttp 19432 21484 "POST /admin/lesson_1/product/9/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:34:17,349 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15201
+INFO 2023-09-05 02:34:17,379 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:34:30,011 basehttp 19432 13172 "GET /admin/lesson_1/product/10/change/ HTTP/1.1" 200 24157
+INFO 2023-09-05 02:34:30,042 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:35:25,126 basehttp 19432 21484 "POST /admin/lesson_1/product/10/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:35:25,253 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15202
+INFO 2023-09-05 02:35:25,281 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:35:33,435 basehttp 19432 13172 "GET /admin/lesson_1/product/11/change/ HTTP/1.1" 200 24156
+INFO 2023-09-05 02:35:33,465 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:35:59,132 basehttp 19432 21484 "POST /admin/lesson_1/product/11/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:35:59,249 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15205
+INFO 2023-09-05 02:35:59,277 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:36:07,995 basehttp 19432 13172 "GET /admin/lesson_1/product/21/change/ HTTP/1.1" 200 24146
+INFO 2023-09-05 02:36:08,026 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:38:05,576 basehttp 19432 21484 "POST /admin/lesson_1/product/21/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:38:05,660 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15203
+INFO 2023-09-05 02:38:05,689 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:38:10,837 basehttp 19432 13172 "GET /admin/lesson_1/product/20/change/ HTTP/1.1" 200 24194
+INFO 2023-09-05 02:38:10,867 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:39:00,045 basehttp 19432 21484 "POST /admin/lesson_1/product/20/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:39:00,129 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15244
+INFO 2023-09-05 02:39:00,157 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:39:07,525 basehttp 19432 13172 "GET /admin/lesson_1/product/19/change/ HTTP/1.1" 200 24222
+INFO 2023-09-05 02:39:07,558 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:39:34,441 basehttp 19432 21484 "POST /admin/lesson_1/product/19/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:39:34,519 basehttp 19432 21484 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15212
+INFO 2023-09-05 02:39:34,551 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:39:44,410 basehttp 19432 13172 "GET /admin/lesson_1/product/18/change/ HTTP/1.1" 200 24355
+INFO 2023-09-05 02:39:44,442 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:40:22,012 basehttp 19432 21484 "POST /admin/lesson_1/product/18/change/ HTTP/1.1" 200 24639
+INFO 2023-09-05 02:40:22,095 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:44:35,054 basehttp 19432 13172 "POST /admin/lesson_1/product/18/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:44:35,169 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15241
+INFO 2023-09-05 02:44:35,199 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:44:43,743 basehttp 19432 21484 "GET /admin/lesson_1/product/17/change/ HTTP/1.1" 200 24126
+INFO 2023-09-05 02:44:43,776 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:45:13,442 basehttp 19432 13172 "POST /admin/lesson_1/product/17/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:45:13,522 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15201
+INFO 2023-09-05 02:45:13,552 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:45:21,818 basehttp 19432 21484 "GET /admin/lesson_1/product/16/change/ HTTP/1.1" 200 24122
+INFO 2023-09-05 02:45:21,850 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:45:48,707 basehttp 19432 13172 "POST /admin/lesson_1/product/16/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:45:48,833 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15200
+INFO 2023-09-05 02:45:48,862 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:45:54,225 basehttp 19432 21484 "GET /admin/lesson_1/product/15/change/ HTTP/1.1" 200 23979
+INFO 2023-09-05 02:45:54,263 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:46:10,883 basehttp 19432 13172 "POST /admin/lesson_1/product/15/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:46:10,964 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15187
+INFO 2023-09-05 02:46:10,993 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:46:15,397 basehttp 19432 21484 "GET /admin/lesson_1/product/14/change/ HTTP/1.1" 200 24171
+INFO 2023-09-05 02:46:15,428 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:46:46,514 basehttp 19432 13172 "POST /admin/lesson_1/product/14/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:46:46,594 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15206
+INFO 2023-09-05 02:46:46,622 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:46:52,622 basehttp 19432 21484 "GET /admin/lesson_1/product/13/change/ HTTP/1.1" 200 24157
+INFO 2023-09-05 02:46:52,651 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:47:21,583 basehttp 19432 13172 "POST /admin/lesson_1/product/13/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:47:21,705 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15210
+INFO 2023-09-05 02:47:21,733 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:47:26,755 basehttp 19432 21484 "GET /admin/lesson_1/product/12/change/ HTTP/1.1" 200 24171
+INFO 2023-09-05 02:47:26,785 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:48:23,824 basehttp 19432 13172 "POST /admin/lesson_1/product/12/change/ HTTP/1.1" 302 0
+INFO 2023-09-05 02:48:23,939 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 15204
+INFO 2023-09-05 02:48:23,970 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:48:33,075 basehttp 19432 21484 "GET /admin/lesson_1/product/11/change/ HTTP/1.1" 200 24192
+INFO 2023-09-05 02:48:33,105 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:48:43,440 basehttp 19432 13172 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14974
+INFO 2023-09-05 02:48:43,473 basehttp 19432 21484 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-05 02:48:51,829 basehttp 19432 21484 "GET /admin/lesson_1/product/12/change/ HTTP/1.1" 200 24207
+INFO 2023-09-05 02:48:51,864 basehttp 19432 13172 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-06 00:57:56,820 autoreload 11184 6120 Watching for file changes with StatReloader
+INFO 2023-09-06 00:58:02,972 views 11184 24088 Index page accessed
+ERROR 2023-09-06 00:58:03,831 log 11184 24088 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 29, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 226, in do_block
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'block' tag with name 'content' appears more than once
+ERROR 2023-09-06 00:58:03,837 basehttp 11184 24088 "GET / HTTP/1.1" 500 225178
+INFO 2023-09-06 01:01:34,266 autoreload 27516 7736 Watching for file changes with StatReloader
+INFO 2023-09-06 01:01:53,703 views 27516 11104 Index page accessed
+ERROR 2023-09-06 01:01:53,799 log 27516 11104 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 29, in index
+    return render(request, 'lesson_1/index.html', context=context)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\template\loader_tags.py", line 226, in do_block
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'block' tag with name 'content' appears more than once
+ERROR 2023-09-06 01:01:53,806 basehttp 27516 11104 "GET / HTTP/1.1" 500 226340
+INFO 2023-09-06 01:03:42,149 autoreload 28600 16848 Watching for file changes with StatReloader
+INFO 2023-09-06 01:03:50,405 views 28600 26036 Index page accessed
+INFO 2023-09-06 01:03:50,631 basehttp 28600 26036 "GET / HTTP/1.1" 200 46696
+INFO 2023-09-06 01:03:50,664 basehttp 28600 10824 "GET /static/megamenu/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,665 basehttp 28600 26036 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,688 basehttp 28600 28316 "GET /static/css/easydropdown.css HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,688 basehttp 28600 2604 "GET /static/css/flexslider.css HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,688 basehttp 28600 19716 "GET /static/css/style.css HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,910 basehttp 28600 2604 "GET /static/js/script.js HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,911 basehttp 28600 26036 "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,911 basehttp 28600 21376 "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,911 basehttp 28600 28316 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,914 basehttp 28600 10824 "GET /static/images/entrance.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,915 basehttp 28600 19716 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:50,998 basehttp 28600 26036 "GET /static/images/packaging.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,000 basehttp 28600 21376 "GET /static/images/1963.jpg HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,001 basehttp 28600 28316 "GET /static/images/material.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,001 basehttp 28600 10824 "GET /static/images/assortment.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,002 basehttp 28600 19716 "GET /static/images/basket.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,008 basehttp 28600 10824 "GET /static/images/pannier.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,009 basehttp 28600 26036 "GET /static/images/20.jpg HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,130 basehttp 28600 2604 "GET /media/1.jpg HTTP/1.1" 200 23293
+INFO 2023-09-06 01:03:51,217 basehttp 28600 26036 "GET /media/2.jpg HTTP/1.1" 200 31748
+INFO 2023-09-06 01:03:51,218 basehttp 28600 19716 "GET /media/5.jpg HTTP/1.1" 200 27836
+INFO 2023-09-06 01:03:51,218 basehttp 28600 28316 "GET /media/4.jpg HTTP/1.1" 200 32838
+INFO 2023-09-06 01:03:51,219 basehttp 28600 21376 "GET /media/6.jpg HTTP/1.1" 200 30253
+INFO 2023-09-06 01:03:51,219 basehttp 28600 10824 "GET /media/3.jpg HTTP/1.1" 200 38157
+INFO 2023-09-06 01:03:51,220 basehttp 28600 2604 "GET /media/7.jpg HTTP/1.1" 200 35818
+INFO 2023-09-06 01:03:51,241 basehttp 28600 10824 "GET /static/images/exposure.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,241 basehttp 28600 19716 "GET /static/images/pointer.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,241 basehttp 28600 26036 "GET /static/images/vk.png HTTP/1.1" 304 0
+INFO 2023-09-06 01:03:51,247 basehttp 28600 28316 "GET /media/9.jpg HTTP/1.1" 200 28661
+INFO 2023-09-06 01:03:51,311 basehttp 28600 2604 "GET /media/8.jpg HTTP/1.1" 200 20293
+WARNING 2023-09-06 01:03:51,339 log 28600 28316 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-06 01:03:51,340 basehttp 28600 28316 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-06 01:07:26,027 autoreload 19092 14104 Watching for file changes with StatReloader
+INFO 2023-09-06 01:07:35,395 views 19092 23956 Index page accessed
+INFO 2023-09-06 01:07:35,432 basehttp 19092 23956 "GET / HTTP/1.1" 200 46896
+WARNING 2023-09-06 01:07:35,497 basehttp 19092 23956 "GET /static/images/%7B%7B%20product.image%20%7D%7D HTTP/1.1" 404 1849
+WARNING 2023-09-06 01:07:35,500 log 19092 27776 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-06 01:07:35,501 basehttp 19092 27776 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-06 07:14:44,886 autoreload 19784 17080 Watching for file changes with StatReloader
+INFO 2023-09-06 07:14:56,375 views 19784 20496 Index page accessed
+INFO 2023-09-06 07:14:56,628 basehttp 19784 20496 "GET / HTTP/1.1" 200 46825
+INFO 2023-09-06 07:14:57,154 basehttp 19784 20728 "GET /media/photos/2023/09/05/amoena.jpg HTTP/1.1" 200 53381
+INFO 2023-09-06 07:14:57,154 basehttp 19784 9492 "GET /media/photos/2023/09/05/abracadabra.jpg HTTP/1.1" 200 40600
+INFO 2023-09-06 07:14:57,155 basehttp 19784 19984 "GET /media/photos/2023/09/05/arabesk.jpg HTTP/1.1" 200 45278
+INFO 2023-09-06 07:14:57,155 basehttp 19784 20496 "GET /media/photos/2023/09/05/fridoline.jpg HTTP/1.1" 200 53151
+INFO 2023-09-06 07:14:57,156 basehttp 19784 19128 "GET /media/photos/2023/09/05/sanders.jpg HTTP/1.1" 200 52464
+INFO 2023-09-06 07:14:57,163 basehttp 19784 17252 "GET /media/photos/2023/09/05/rainbow.jpg HTTP/1.1" 200 26400
+INFO 2023-09-06 07:14:57,268 basehttp 19784 9492 "GET /media/photos/2023/09/05/24_Y3GXbyG.jpg HTTP/1.1" 200 41280
+INFO 2023-09-06 07:14:57,270 basehttp 19784 19984 "GET /media/photos/2023/09/05/Bluecrop.jpg HTTP/1.1" 200 96104
+WARNING 2023-09-06 07:14:57,522 log 19784 19128 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-06 07:14:57,523 basehttp 19784 19128 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-15 14:35:54,000 autoreload 3496 38440 Watching for file changes with StatReloader
+INFO 2023-09-15 14:36:11,072 views 3496 33524 Index page accessed
+INFO 2023-09-15 14:36:11,492 basehttp 3496 33524 "GET / HTTP/1.1" 200 46825
+INFO 2023-09-15 14:36:12,615 basehttp 3496 33524 "GET /media/1.jpg HTTP/1.1" 200 23293
+INFO 2023-09-15 14:36:12,648 basehttp 3496 21836 "GET /media/photos/2023/09/05/abracadabra.jpg HTTP/1.1" 200 40600
+INFO 2023-09-15 14:36:12,656 basehttp 3496 38216 "GET /media/photos/2023/09/05/sanders.jpg HTTP/1.1" 200 52464
+INFO 2023-09-15 14:36:12,679 basehttp 3496 4344 "GET /media/photos/2023/09/05/rainbow.jpg HTTP/1.1" 200 26400
+INFO 2023-09-15 14:36:12,693 basehttp 3496 15596 "GET /media/photos/2023/09/05/fridoline.jpg HTTP/1.1" 200 53151
+INFO 2023-09-15 14:36:12,746 basehttp 3496 5444 "GET /static/images/pannier.png HTTP/1.1" 200 1850
+INFO 2023-09-15 14:36:13,006 basehttp 3496 15596 "GET /media/photos/2023/09/05/amoena.jpg HTTP/1.1" 200 53381
+INFO 2023-09-15 14:36:13,014 basehttp 3496 21836 "GET /media/photos/2023/09/05/arabesk.jpg HTTP/1.1" 200 45278
+INFO 2023-09-15 14:36:13,186 basehttp 3496 4344 "GET /media/photos/2023/09/05/Bluecrop.jpg HTTP/1.1" 200 96104
+INFO 2023-09-15 14:36:13,264 basehttp 3496 38216 "GET /media/photos/2023/09/05/24_Y3GXbyG.jpg HTTP/1.1" 200 41280
+WARNING 2023-09-15 14:36:13,603 log 3496 15596 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-15 14:36:13,605 basehttp 3496 15596 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-15 14:36:25,793 views 3496 15596 About page accessed
+ERROR 2023-09-15 14:36:26,129 log 3496 15596 Internal Server Error: /about/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 38, in about
+    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас', 'categories': categories})
+NameError: name 'categories' is not defined
+ERROR 2023-09-15 14:36:26,131 basehttp 3496 15596 "GET /about/ HTTP/1.1" 500 66816
+INFO 2023-09-15 14:36:47,232 views 3496 15596 News page accessed
+INFO 2023-09-15 14:36:47,234 basehttp 3496 15596 "GET /news/ HTTP/1.1" 200 14
+INFO 2023-09-15 14:36:58,576 views 3496 15596 About page accessed
+ERROR 2023-09-15 14:36:58,610 log 3496 15596 Internal Server Error: /about/
+Traceback (most recent call last):
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py", line 38, in about
+    return render(request, 'lesson_1/about.html', {'menu': menu, 'title': 'О нас', 'categories': categories})
+NameError: name 'categories' is not defined
+ERROR 2023-09-15 14:36:58,612 basehttp 3496 15596 "GET /about/ HTTP/1.1" 500 66667
+INFO 2023-09-15 14:37:08,318 views 3496 15596 Working_conditions page accessed
+INFO 2023-09-15 14:37:08,319 basehttp 3496 15596 "GET /working_conditions/ HTTP/1.1" 200 27
+INFO 2023-09-15 14:37:14,915 views 3496 15596 Reviews page accessed
+INFO 2023-09-15 14:37:14,916 basehttp 3496 15596 "GET /reviews/ HTTP/1.1" 200 12
+INFO 2023-09-15 14:37:20,895 views 3496 15596 Contacts page accessed
+INFO 2023-09-15 14:37:20,896 basehttp 3496 15596 "GET /contacts/ HTTP/1.1" 200 16
+INFO 2023-09-15 14:37:26,658 views 3496 15596 Articles page accessed
+INFO 2023-09-15 14:37:26,659 basehttp 3496 15596 "GET /articles/ HTTP/1.1" 200 12
+INFO 2023-09-15 14:38:38,757 basehttp 3496 15596 "GET /admin/ HTTP/1.1" 302 0
+INFO 2023-09-15 14:38:39,087 basehttp 3496 15596 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4264
+INFO 2023-09-15 14:38:39,257 basehttp 3496 15596 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,257 basehttp 3496 5444 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,258 basehttp 3496 38216 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,258 basehttp 3496 21836 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,259 basehttp 3496 4344 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,420 basehttp 3496 15596 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:39,420 basehttp 3496 5444 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:43,416 basehttp 3496 15596 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-09-15 14:38:43,666 basehttp 3496 15596 "GET /admin/ HTTP/1.1" 200 11553
+INFO 2023-09-15 14:38:43,772 basehttp 3496 15596 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:43,832 basehttp 3496 15596 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:43,832 basehttp 3496 5444 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2023-09-15 14:38:57,622 basehttp 3496 15596 "GET /admin/lesson_1/product/ HTTP/1.1" 200 14974
+INFO 2023-09-15 14:38:57,974 basehttp 3496 15596 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2023-09-15 14:39:40,518 basehttp 3496 15596 "GET /admin/ HTTP/1.1" 200 11553
+INFO 2023-09-15 14:39:42,972 basehttp 3496 15596 "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2023-09-15 14:39:42,994 basehttp 3496 15596 "GET /admin/ HTTP/1.1" 200 11553
+INFO 2023-09-15 15:14:49,263 autoreload 3496 38440 C:\Users\MSI\Desktop\Фреймворк Django\python_django\seminar\lesson_1\views.py changed, reloading.
+INFO 2023-09-15 15:14:52,519 autoreload 36984 26844 Watching for file changes with StatReloader
+INFO 2023-09-15 15:15:11,256 views 36984 40556 Index page accessed
+INFO 2023-09-15 15:15:11,368 basehttp 36984 40556 "GET / HTTP/1.1" 200 46825
+WARNING 2023-09-15 15:15:11,894 log 36984 29436 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-15 15:15:11,895 basehttp 36984 29436 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-15 15:15:19,362 views 36984 29436 About page accessed
+INFO 2023-09-15 15:15:19,410 basehttp 36984 29436 "GET /about/ HTTP/1.1" 200 11076
+WARNING 2023-09-15 15:15:19,502 log 36984 40556 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-15 15:15:19,503 basehttp 36984 40556 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4353
+INFO 2023-09-15 15:19:07,720 autoreload 36944 35252 Watching for file changes with StatReloader
+INFO 2023-09-15 15:19:37,023 views 36944 1684 Index page accessed
+INFO 2023-09-15 15:19:37,054 basehttp 36944 1684 "GET / HTTP/1.1" 200 46825
+INFO 2023-09-15 15:19:37,762 basehttp 36944 1684 "GET /static/megamenu/css/ionicons.min.css HTTP/1.1" 200 51319
+INFO 2023-09-15 15:19:37,835 basehttp 36944 9552 "GET /static/css/easydropdown.css HTTP/1.1" 200 3763
+INFO 2023-09-15 15:19:37,837 basehttp 36944 40400 "GET /static/css/flexslider.css HTTP/1.1" 200 6955
+INFO 2023-09-15 15:19:37,842 basehttp 36944 31484 "GET /static/css/style.css HTTP/1.1" 200 15971
+INFO 2023-09-15 15:19:37,843 basehttp 36944 32052 "GET /static/megamenu/css/style.css HTTP/1.1" 200 5569
+INFO 2023-09-15 15:19:37,999 basehttp 36944 40400 "GET /static/js/script.js HTTP/1.1" 200 92
+INFO 2023-09-15 15:19:38,041 basehttp 36944 32052 "GET /static/megamenu/js/megamenu.js HTTP/1.1" 200 1799
+INFO 2023-09-15 15:19:38,044 basehttp 36944 31484 "GET /static/js/main.js HTTP/1.1" 200 103
+INFO 2023-09-15 15:19:38,059 basehttp 36944 9552 "GET /static/js/jquery.easydropdown.js HTTP/1.1" 200 12390
+INFO 2023-09-15 15:19:38,121 basehttp 36944 7620 "GET /static/images/logo.png HTTP/1.1" 200 16765
+INFO 2023-09-15 15:19:38,127 basehttp 36944 1684 "GET /static/images/entrance.png HTTP/1.1" 200 1147
+INFO 2023-09-15 15:19:38,144 basehttp 36944 31484 "GET /static/images/1963.jpg HTTP/1.1" 200 136757
+INFO 2023-09-15 15:19:38,160 basehttp 36944 32052 "GET /static/images/basket.png HTTP/1.1" 200 1452
+INFO 2023-09-15 15:19:38,226 basehttp 36944 9552 "GET /static/images/material.png HTTP/1.1" 200 6102
+INFO 2023-09-15 15:19:38,245 basehttp 36944 7620 "GET /static/images/packaging.png HTTP/1.1" 200 7180
+INFO 2023-09-15 15:19:38,284 basehttp 36944 1684 "GET /static/images/assortment.png HTTP/1.1" 200 6716
+INFO 2023-09-15 15:19:38,304 basehttp 36944 32052 "GET /media/1.jpg HTTP/1.1" 200 23293
+INFO 2023-09-15 15:19:38,346 basehttp 36944 7620 "GET /media/3.jpg HTTP/1.1" 200 38157
+INFO 2023-09-15 15:19:38,373 basehttp 36944 32052 "GET /media/6.jpg HTTP/1.1" 200 30253
+INFO 2023-09-15 15:19:38,379 basehttp 36944 31484 "GET /media/2.jpg HTTP/1.1" 200 31748
+INFO 2023-09-15 15:19:38,390 basehttp 36944 7620 "GET /media/7.jpg HTTP/1.1" 200 35818
+INFO 2023-09-15 15:19:38,398 basehttp 36944 40400 "GET /media/4.jpg HTTP/1.1" 200 32838
+INFO 2023-09-15 15:19:38,407 basehttp 36944 32052 "GET /media/9.jpg HTTP/1.1" 200 28661
+INFO 2023-09-15 15:19:38,408 basehttp 36944 40400 "GET /media/photos/2023/09/05/rainbow.jpg HTTP/1.1" 200 26400
+INFO 2023-09-15 15:19:38,430 basehttp 36944 31484 "GET /media/photos/2023/09/05/fridoline.jpg HTTP/1.1" 200 53151
+INFO 2023-09-15 15:19:38,437 basehttp 36944 32052 "GET /media/photos/2023/09/05/abracadabra.jpg HTTP/1.1" 200 40600
+INFO 2023-09-15 15:19:38,452 basehttp 36944 31484 "GET /media/photos/2023/09/05/arabesk.jpg HTTP/1.1" 200 45278
+INFO 2023-09-15 15:19:38,461 basehttp 36944 40400 "GET /media/photos/2023/09/05/sanders.jpg HTTP/1.1" 200 52464
+INFO 2023-09-15 15:19:38,475 basehttp 36944 31484 "GET /media/photos/2023/09/05/amoena.jpg HTTP/1.1" 200 53381
+INFO 2023-09-15 15:19:38,481 basehttp 36944 7620 "GET /static/images/pannier.png HTTP/1.1" 200 1850
+INFO 2023-09-15 15:19:38,496 basehttp 36944 31484 "GET /media/photos/2023/09/05/Bluecrop.jpg HTTP/1.1" 200 96104
+INFO 2023-09-15 15:19:38,505 basehttp 36944 40400 "GET /media/photos/2023/09/05/24_Y3GXbyG.jpg HTTP/1.1" 200 41280
+WARNING 2023-09-15 15:19:38,539 log 36944 40400 Not Found: /js/jquery.flexslider.js
+WARNING 2023-09-15 15:19:38,540 basehttp 36944 40400 "GET /js/jquery.flexslider.js HTTP/1.1" 404 4335
+INFO 2023-09-15 15:19:38,633 basehttp 36944 32052 "GET /static/images/pointer.png HTTP/1.1" 200 1000
+INFO 2023-09-15 15:19:38,634 basehttp 36944 31484 "GET /static/images/vk.png HTTP/1.1" 200 1661
+INFO 2023-09-15 15:19:38,636 basehttp 36944 7620 "GET /static/images/exposure.png HTTP/1.1" 200 1601
+INFO 2023-09-15 15:19:38,637 basehttp 36944 9552 "GET /media/8.jpg HTTP/1.1" 200 20293
+INFO 2023-09-15 15:19:38,638 basehttp 36944 1684 "GET /media/5.jpg HTTP/1.1" 200 27836
+INFO 2023-09-15 15:19:46,585 views 36944 7620 About page accessed
+INFO 2023-09-15 15:19:46,593 basehttp 36944 7620 "GET /about/ HTTP/1.1" 200 11076
+WARNING 2023-09-15 15:19:46,641 log 36944 7620 Not Found: /about/js/jquery.flexslider.js
+WARNING 2023-09-15 15:19:46,642 basehttp 36944 7620 "GET /about/js/jquery.flexslider.js HTTP/1.1" 404 4353
+INFO 2023-09-15 15:19:49,710 views 36944 7620 News page accessed
+INFO 2023-09-15 15:19:49,712 basehttp 36944 7620 "GET /news/ HTTP/1.1" 200 14

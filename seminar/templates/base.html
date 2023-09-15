@@ -1,0 +1,48 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+    <title>{{ title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+        integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link href="{% static 'megamenu/css/ionicons.min.css' %}" rel="stylesheet" type="text/css" media="all">
+    <link href="{% static 'megamenu/css/style.css' %}" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/easydropdown.css' %}">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" href="{% static 'css/flexslider.css' %}" type="text/css" media="screen">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<div class="wrap">
+    {% include 'inc/_header.html' %}
+    <div class="contents container">
+        {% block content %} {% endblock %}
+    </div>
+    {% include 'inc/_footer.html' %}
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+	<script src="{% static 'js/script.js' %}"></script>
+	<script src="{% static 'js/jquery.easydropdown.js' %}"></script>
+	<script src="{% static 'megamenu/js/megamenu.js' %}"></script>
+	<script src="{% static 'js/main.js' %}"></script>
+	<!--<script src="js/imagezoom.js"></script>-->
+	<script defer src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript">
+		$(window).load(function(){
+		$('.flexslider').flexslider({
+			animation: "slide",
+			controlNav: "thumbnails"
+		});
+		});
+	</script>
+    </div>
+</body>
+</html>

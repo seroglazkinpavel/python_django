@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block title %}{{ title }} {% endblock %}
+
+{% block content %}
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Отправить">
+    </form>
+    {% if results %}
+        <h2>Результат</h2>
+        <ul>
+        {% for result in results %}
+            <li>{{ result }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}

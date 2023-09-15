@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block title %} {{ title }} {% endblock %}
+
+{% block content %}
+  <a href="{% url 'filter' pk=1 %}"><button>Неделя</button></a>
+  <a href="{% url 'filter' pk=2 %}"><button>Месяц</button></a>
+  <a href="{% url 'filter' pk=3 %}"><button>Год</button></a>
+
+  {% for order in orders %}
+    <h2>{{ order.customer }}</h2>
+    <p>{{ order.product }}</p>
+    <p>{{ order.time_create }}</p>
+  {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,358 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<section>
+    <div class="runner"><img src="{% static 'images/1963.jpg' %}"></div>
+    <div class="benefit">
+        <div class="privilege">
+            <div class="col-1">
+                <img src="{% static 'images/material.png' %}" width="80" height="82" alt="material">
+            </div>
+            <div class="col-2">
+                <p class="material">КАЧЕСТВЕННЫЙ<br>ПОСАДОЧНЫЙ МАТЕРИАЛ</p>
+                <p>Все растения перед отправкой<br>проходят тщательный отбор</p>
+            </div>
+        </div>
+        <div class="privilege">
+            <div class="col-1">
+                <img src="{% static 'images/packaging.png' %}" width="80" height="82" alt="packaging">
+            </div>
+            <div class="col-2">
+                <p class="packaging">НАДЕЖНАЯ УПАКОВКА</p>
+                <p>Используем современные технологии<br>упаковки и хранения посадочного материала</p>
+            </div>
+        </div>
+        <div class="privilege">
+            <div class="col-1">
+                <img src="{% static 'images/assortment.png' %}" width="80" height="82" alt="assortment">
+            </div>
+            <div class="col-2">
+                <p class="assortment">БОЛЬШОЙ АССОРТИМЕНТ</p>
+                <p>Предлогаем большой выбор<br>посадочного материала. Следим за<br>новинками.</p>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="brand">
+        <div class="catalog-slider"><p>БРЕНДЫ</p>
+            <hr>
+        </div>
+        <div class="home-demo">
+            <div class="slider owl-carousel">
+                {% for item in brands %}
+                    <div class="about-left">
+                        <figure class="effect-bubba">
+                            <img class="mg" src="{{ item.image.url }}">
+                            <figcaption>
+                                <h4>{{ item.title }}</h4>
+                                <p>{{ item.description }}</p>
+                            </figcaption>
+                        </figure>
+                    </div>
+                {%endfor%}
+<!--                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/1.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Shenzhen Nongke</h4>-->
+<!--                                <p>Самый эксклюзивный и дорогой цветок в мире</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/2.jpg' %%}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Gold Of Kinabalu</h4>-->
+<!--                                <p>Самый эксклюзивный и дорогой цветок в мире</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/3.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Rainbow Roses</h4>-->
+<!--                                <p>Радужные розы получены не путем селекции ,а это инженерное искусство, заключающееся в мастерстве смешивания красок</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/4.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Gloriosa</h4>-->
+<!--                                <p>Цветки этого растения напоминают языки пламени, а в переводе с латыни название цветка звучит как «прославленный»</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/5.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Тюльпан-Король ночи</h4>-->
+<!--                                <p>Его лепестки в зависимости от освещения то бархатно черного, то глубокого фиолетового оттенка</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/6.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Strongylodon macrobotrys</h4>-->
+<!--                                <p>Эту небесно голубую лиану в природе можно найти только в тропическом лесу Филиппин</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/7.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Мединилла</h4>-->
+<!--                                <p>Это растение считается одним из самых красивых в мире, садоводы и ботаники даже дали ей соответствующее прозвище "прекрасная"</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/8.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Fredclarkeara</h4>-->
+<!--                                <p>Была получена путем скрещивания трех видов орхидей. Создал этот удивительный сорт американский селекционер Фред Кларк.</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+<!--                                    <div class="about-left">-->
+<!--                        <figure class="effect-bubba">-->
+<!--                            <img class="mg" src="{% static 'images/9.jpg' %}">-->
+<!--                            <figcaption>-->
+<!--                                <h4>Плетистая роза «Пьер де Ронсар»</h4>-->
+<!--                                <p>Волшебной красоты плетистая роза,второе название у нее Райская роза</p>-->
+<!--                            </figcaption>-->
+<!--                        </figure>-->
+<!--                    </div>-->
+            </div>
+        </div>
+    </section>
+
+    <section class="novelty">
+        <div class="catalog-slider"><p>НОВИНКИ</p>
+            <hr>
+        </div>
+
+        <div class="grid">
+
+            {% for product in products %}
+                <div class="grid-itm">
+                    <div class="grid-img"><a href="product/list?alias=red-pearl "><img
+                                    src="{{ product.image.url }}" width="300" height="300"
+                                    alt="chandler"></a></div>
+                    <hr>
+                    <div class="product_catalog">
+                        <div class="catalog-item"><a
+                                    href="product/list?alias=red-pearl ">{{ product.title }}</a></div>
+                        <ul class="catalog-item">
+                            <li>Отправляется:</li>
+                            <li>{{ product.depart }}</li>
+                        </ul>
+                        <ul class="catalog-item">
+                            <li>К-во в упоковке:</li>
+                            <li>1 шт.</li>
+                        </ul>
+                        <ul class="catalog-item">
+                            <li class="catalog-item_price"><b>{{ productprice }}</b> руб.</li>
+                            <li><a class="add-to-cart-link" href="cart/add?id=1"><img
+                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            {% endfor %}
+
+<!--                <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=red-pearl "><img-->
+<!--                                    src="{% static 'images/20.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=red-pearl ">БРУСНИКА RED PEARL</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>В контейнере P9</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>432</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=1"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=nashville"><img-->
+<!--                                    src="{% static 'images/22.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=nashville">КАЛЛА NASHVILLE</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>158</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=2"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=zenobia "><img-->
+<!--                                    src="{% static 'images/23.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=zenobia "> ФЛОКС ZENOBIA</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>158</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=3"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=bordeaux "><img-->
+<!--                                    src="{% static 'images/24.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=bordeaux ">ЛАНДЫШ BORDEAUX</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>70</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=4"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=freckle-red-shades "><img-->
+<!--                                    src="{% static 'images/25.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=freckle-red-shades ">ФЛОКС FRECKLE RED SHADES</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>264</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=5"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=jade"><img-->
+<!--                                    src="{% static 'images/27.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=jade">ФЛОКС JADE</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>248</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=6"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=tequila-sunrise"><img-->
+<!--                                    src="{% static 'images/26.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=tequila-sunrise">ФЛОКС TEQUILA SUNRISE</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>191</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=7"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                            <div class="grid-itm">-->
+<!--                    <div class="grid-img"><a href="product/list?alias=album-white"><img-->
+<!--                                    src="{% static 'images/21.jpg' %}" width="300" height="300"-->
+<!--                                    alt="chandler"></a></div>-->
+<!--                    <hr>-->
+<!--                    <div class="product_catalog">-->
+<!--                        <div class="catalog-item"><a-->
+<!--                                    href="product/list?alias=album-white">ПЛАТИКОДОН ALBUM WHITE</a></div>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>Отправляется:</li>-->
+<!--                            <li>упаковкой</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li>К-во в упоковке:</li>-->
+<!--                            <li>1 шт.</li>-->
+<!--                        </ul>-->
+<!--                        <ul class="catalog-item">-->
+<!--                            <li class="catalog-item_price"><b>85</b> руб.</li>-->
+<!--                            <li><a class="add-to-cart-link" href="cart/add?id=8"><img-->
+<!--                                            src="{% static 'images/pannier.png' %}" alt="pannier"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </div>-->
+                    </div>
+    </section>
+{% endblock %}
